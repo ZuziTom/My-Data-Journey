@@ -13,10 +13,12 @@
 - Regular Expressions: re.search(), re.match(), re.findall(), re.sub()
 
 ## 3. Python and PostgreSQL
+- psycopg2 library
 - Basic Data Operations: Loading, replacing, deleting data
 - Statistical Calculations: mean(), min(), max(), relationships, aggregate functions, multiple grouping
 
 ## 4. API and JSON
+- Requests, JSON library
 - Authentication: Handling API keys and tokens
 - API Requests: requests.get(), requests.post()
 - JSON: json.loads(), json.dumps(), parsing and manipulating JSON data
