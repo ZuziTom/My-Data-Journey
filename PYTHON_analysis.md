@@ -81,3 +81,6 @@ The task will be executed using the following modules:
 - BeautifulSoup: For transforming unstructured data (HTML code) into tabular data (DataSet).
 - Pandas: For data transformation.
 - Matplotlib: For presenting results.
+
+### Project Structure
+To simplify work during the workshop and ensure easy collaboration, a consistent project structure called cookiecutter Data Science was used. Structure has been simplified to avoid unnecessary hassle.
