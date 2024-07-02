@@ -1,4 +1,4 @@
-# Brain Diy
+# 💡🌟 BRAIN_DIY: New_Self-Education_Assets 🎓🧠
 
 Welcome to the Brain Diy repository! This folder contains various self-learning scripts and topics that I have explored and mastered after completing my course. Below is a list of the scripts currently available, along with a brief description of each.
 
