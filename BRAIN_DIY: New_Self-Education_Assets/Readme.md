@@ -5,18 +5,18 @@ Welcome to the Brain Diy repository! This folder contains various self-learning 
 ## Contents
 
 1. **Python Sweetviz**
-    - **File:** `Python_Sweetviz.ipynb`
+    - **File:** `EDA_sweetviz.ipynb`
     - **Description:** This Jupyter notebook showcases the usage of Sweetviz for quick Exploratory Data Analysis (EDA). Sweetviz is a Python library that generates beautiful, highly detailed visualizations and summaries of datasets. This script demonstrates how to use Sweetviz to gain insights into your data quickly.
 
 2. **Pivottablejs**
-    - **File:** `Pivottablejs.ipynb`
+    - **File:** `PivotTableJS.ipynb`
     - **Description:** This Jupyter notebook demonstrates the use of Pivottablejs, an open-source JavaScript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop functionality. It allows for interactive exploration and visualization of data, making it easier to understand and manipulate data from various perspectives.
 
 ## How to Use
 
 1. Clone the repository to your local machine using the following command:
     ```sh
-    git clone https://github.com/your-username/Brain-Diy.git
+    git clone https://github.com/ZuziTom/Brain-Diy.git
     ```
 
 2. Navigate to the `Brain Diy` folder:
