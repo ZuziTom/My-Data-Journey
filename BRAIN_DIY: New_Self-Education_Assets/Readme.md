@@ -7,10 +7,12 @@ Welcome to the Brain Diy repository! This folder contains various self-learning 
 1. **Python Sweetviz**
     - **File:** `EDA_sweetviz.ipynb`
     - **Description:** This Jupyter notebook showcases the usage of Sweetviz for quick Exploratory Data Analysis (EDA). Sweetviz is a Python library that generates beautiful, highly detailed visualizations and summaries of datasets. This script demonstrates how to use Sweetviz to gain insights into your data quickly.
+    - **HTML Output:** `card_frauds_sweetviz.html`
 
 2. **Pivottablejs**
     - **File:** `PivotTableJS.ipynb`
     - **Description:** This Jupyter notebook demonstrates the use of Pivottablejs, an open-source JavaScript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop functionality. It allows for interactive exploration and visualization of data, making it easier to understand and manipulate data from various perspectives.
+    - **HTML Output:** `pivottablejs_showcase.html`
 
 ## How to Use
 
