@@ -1,0 +1,169 @@
+﻿Year,Organization type,Method,Total No Records (M),Count of Breaches
+2016,healthcare,hacked,2.2,1
+2020,media,hacked,14.870304,1
+2020,healthcare,poor security,0.5666,2
+2013,tech,hacked,3350.159298,14
+2019,tech,poor security,592.5,4
+2017,healthcare,lost / stolen media,4,1
+2018,other,hacked,636.146608,7
+2013,healthcare,lost / stolen media,0.444579,2
+2019,telecom,poor security,320,1
+2005,financial,lost / stolen media,5.3,3
+2021,tech,poor security,0.3,1
+2020,tech,hacked,316.51,4
+2021,healthcare,hacked,80.156,2
+2021,tech,inside job,92,1
+2021,tech,accidentally exposed,32.367232,2
+2014,tech,hacked,654.86,7
+2021,tech,hacked,0.275,1
+2021,healthcare,poor security,0.091,1
+2015,tech,hacked,34.3,2
+2008,telecom,lost / stolen media,0.113,1
+2010,telecom,hacked,0.114,1
+2008,tech,hacked,18,1
+2005,financial,poor security,0.125,1
+2009,healthcare,lost / stolen media,2.743209,3
+2015,retail,hacked,6.55,3
+2008,financial,lost / stolen media,12.5,1
+2017,telecom,poor security,1.9,1
+2018,telecom,hacked,0.1,1
+2014,academic / educational,hacked,35.34,2
+2010,tech,hacked,3.8,2
+2011,tech,hacked,196.352755,11
+2018,tech,hacked,158.513234,3
+2012,tech,hacked,213.265944,6
+2018,financial,poor security,0.09,1
+2012,government,lost / stolen media,0.8,1
+2019,tech,hacked,144.9,2
+2019,financial,accidentally exposed,106,1
+2005,financial,hacked,40,1
+2015,healthcare,hacked,30.5,5
+2016,financial,hacked,0.06,1
+2013,other,hacked,0.11,1
+2009,financial,hacked,135,2
+2020,other,unknown,56,1
+2011,financial,hacked,0.360083,1
+2013,financial,poor security,0.15,1
+2007,healthcare,lost / stolen media,0.16,1
+2010,healthcare,lost / stolen media,3.314076,6
+2014,healthcare,hacked,4.5,1
+2016,government,hacked,55,1
+2007,financial,inside job,9.5,2
+2006,financial,inside job,2.6,1
+2011,financial,inside job,2.5,1
+2018,healthcare,hacked,0.075,1
+2016,telecom,hacked,1.54,2
+2007,retail,inside job,8.637405,1
+2008,financial,hacked,9.5,2
+2016,government,poor security,0.03,1
+2019,financial,inside job,9.7,1
+2007,government,lost / stolen media,28,2
+2005,retail,hacked,1.4,1
+2010,financial,lost / stolen media,5.9,2
+2011,healthcare,lost / stolen media,16.515406,7
+2010,government,inside job,0.903,3
+2012,healthcare,poor security,0.315,1
+2017,financial,poor security,163.119,1
+2018,tech,poor security,340,1
+2015,telecom,hacked,15,1
+2013,media,accidentally exposed,6,1
+2018,media,poor security,50.5,2
+2019,media,poor security,807,2
+2019,media,accidentally exposed,1.5,1
+2019,retail,hacked,7.261091,2
+2010,financial,hacked,0.4,1
+2019,financial,poor security,885,1
+2013,government,lost / stolen media,0.1,1
+2016,tech,poor security,412.214295,1
+2016,tech,hacked,48.939116,5
+2012,tech,accidentally exposed,8.583792,3
+2020,government,poor security,201,1
+2007,retail,lost / stolen media,0.8,1
+2012,financial,hacked,170.26,4
+2012,government,hacked,12.214899,3
+2017,healthcare,hacked,0.025,1
+2008,other,inside job,11.1,1
+2007,retail,hacked,98.2,2
+2018,retail,hacked,28.641101,2
+2019,healthcare,poor security,12.7222,3
+2006,tech,lost / stolen media,0.2,1
+2014,retail,hacked,60.1,3
+2011,retail,poor security,0.283,1
+2020,media,poor security,246,3
+2015,financial,hacked,5.32,2
+2016,healthcare,inside job,0.0067,1
+2015,other,hacked,1.25,1
+2004,retail,inside job,0.51,1
+2008,government,accidentally exposed,11.55,3
+2014,financial,hacked,76,1
+2019,tech,accidentally exposed,100,1
+2006,telecom,hacked,4,1
+2013,academic / educational,hacked,0.125,1
+2014,financial,inside job,20,1
+2012,telecom,hacked,8.7,1
+2019,healthcare,hacked,15,1
+2020,other,poor security,125.2,2
+2011,government,poor security,0.21,1
+2019,tech,misconfiguration,250,1
+2006,financial,lost / stolen media,0.96,1
+2019,telecom,misconfiguration,100,1
+2007,tech,hacked,1.6,1
+2011,financial,lost / stolen media,0.034,1
+2014,tech,poor security,0.126,2
+2018,tech,unknown,92.283889,1
+2009,tech,hacked,32.573,2
+2012,other,inside job,1.8,1
+2014,other,poor security,0.052,1
+2016,media,hacked,0.43,1
+2020,financial,rogue contractor,0.03,1
+2015,government,hacked,21.5,1
+2012,government,accidentally exposed,6.5,1
+2010,academic / educational,hacked,0.76,1
+2020,financial,misconfiguration,20.076016,1
+2010,healthcare,hacked,0.7464,2
+2020,tech,misconfiguration,1.381735,1
+2011,retail,hacked,0.2,1
+2015,government,inside job,0.68,1
+2011,government,hacked,0.18,1
+2008,government,lost / stolen media,1.8345,3
+2018,government,hacked,1.5,1
+2015,tech,poor security,0.5,1
+2020,telecom,poor security,0.377428,1
+2013,government,hacked,0.176,2
+2012,healthcare,inside job,6.4,1
+2011,healthcare,hacked,0.3,1
+2008,academic / educational,lost / stolen media,4.372,3
+2008,retail,lost / stolen media,0.097,1
+2011,government,accidentally exposed,4.608461,4
+2016,retail,hacked,20,1
+2017,tech,hacked,28.722877,1
+2013,retail,hacked,110,1
+2007,financial,hacked,6.3,1
+2013,telecom,accidentally exposed,0.17,1
+2007,government,inside job,0.089,1
+2006,telecom,lost / stolen media,17,1
+2021,telecom,hacked,45,1
+2011,government,lost / stolen media,4.901432,1
+2019,telecom,unknown,299.055,1
+2017,other,hacked,57,1
+2019,academic / educational,hacked,1.16454,1
+2009,academic / educational,hacked,0.16,1
+2016,academic / educational,hacked,0.143,2
+2011,academic / educational,hacked,0.073,1
+2018,government,poor security,60,1
+2009,government,lost / stolen media,76.203,3
+2006,government,lost / stolen media,26.5,1
+2020,healthcare,hacked,0.13,1
+2020,other,accidentally exposed,38,1
+2020,telecom,accidentally exposed,0.9,1
+2009,government,hacked,8.257378,1
+2009,healthcare,hacked,0.5314,1
+2013,telecom,inside job,2,1
+2011,media,hacked,1.27,1
+2020,retail,hacked,30,1
+2015,tech,social engineering,6.054459,1
+2010,academic / educational,accidentally exposed,0.043,1
+2019,media,hacked,173,1
+2019,financial,hacked,0.098,1
+2020,financial,accidentally exposed,200,1
+2020,media,unknown,0.38,1

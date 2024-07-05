@@ -1,0 +1,2151 @@
+﻿Title,Data Type,License,Votes,Views,Downloads,Kernels,Topics
+Credit Card Fraud Detection,CSV,ODbL,1241,442136,53128,1782,26
+European Soccer Database,SQLite,ODbL,1046,396214,46367,1459,75
+TMDB 5000 Movie Dataset,CSV,Other,1024,446255,62002,1394,46
+Global Terrorism Database,CSV,Other,789,187877,26309,608,11
+Bitcoin Historical Data,CSV,CC4,618,146734,16868,68,13
+"Kaggle ML and Data Science Survey, 2017",CSV,ODbL,574,95587,9390,244,10
+Iris Species,SQLite,CC0,512,162706,24361,3394,14
+World Development Indicators,CSV,Other,468,134038,20364,389,5
+Daily News for Stock Market Prediction,CSV,CC4,438,95770,10820,293,8
+Pokemon with stats,CSV,CC0,428,133256,16610,706,13
+Lending Club Loan Data,SQLite,Other,406,151714,26758,521,25
+Wine Reviews,CSV,CC4,397,65098,10070,87,12
+Climate Change: Earth Surface Temperature Data,CSV,CC4,392,134742,22989,431,7
+Open Food Facts,Other,ODbL,361,131482,18829,483,6
+Where it Pays to Attend College,CSV,Other,347,50598,9473,43,3
+Mushroom Classification,CSV,CC0,341,103535,14777,449,4
+Breast Cancer Wisconsin (Diagnostic) Data Set,CSV,CC4,302,127057,17488,573,11
+Amazon Fine Food Reviews,SQLite,CC0,281,119362,16079,327,9
+World Happiness Report,CSV,CC0,272,90642,19316,234,6
+Fashion MNIST,Other,Other,268,53821,6059,119,6
+2016 US Election,CSV,CC4,261,140095,17273,260,17
+Game of Thrones,CSV,CC0,258,113897,13525,206,5
+Speed Dating Experiment,Other,Other,256,119295,24348,240,7
+Football Events,CSV,Other,256,49559,9488,89,5
+Zillow Economics Data,CSV,Other,253,39924,4014,27,5
+"House Sales in King County, USA",CSV,CC0,249,100966,16286,406,11
+The Movies Dataset,CSV,CC0,246,51102,7834,22,4
+New York Stock Exchange,CSV,CC0,236,67291,11236,209,7
+Cryptocurrency Historical Prices,CSV,CC0,235,87120,11620,30,10
+TED Talks,CSV,CC4,233,54830,6135,28,4
+Health Insurance Marketplace,CSV,CC0,232,79817,10565,203,12
+(MBTI) Myers-Briggs Personality Type Dataset,CSV,CC0,225,42504,4267,19,2
+World University Rankings,CSV,Other,224,105477,20198,282,5
+Mental Health in Tech Survey,CSV,CC4,224,62030,8712,108,5
+Huge Stock Market Dataset,Other,CC0,221,22421,3593,10,6
+Medical Appointment No Shows,CSV,CC4,218,78477,9988,219,35
+Twitter US Airline Sentiment,SQLite,CC4,212,92154,12779,233,8
+Gender Recognition by Voice,CSV,CC4,210,83213,8458,393,6
+Every Cryptocurrency Daily Market Price,CSV,Other,210,31723,3904,17,20
+Student Alcohol Consumption,CSV,CC0,207,108583,18426,259,6
+H-1B Visa Petitions 2011-2016,CSV,CC4,205,71190,8575,150,12
+Young People Survey,CSV,CC0,204,67506,17873,126,3
+Trending YouTube Video Statistics,CSV,CC0,199,33195,5856,14,7
+Video Game Sales,CSV,Other,198,86011,13910,283,11
+20 Years of Games,CSV,Other,186,50320,7818,160,4
+Hillary Clinton's Emails,CSV,CC0,185,115287,11464,347,12
+IBM HR Analytics Employee Attrition & Performance,CSV,ODbL,183,67957,9905,235,10
+Chocolate Bar Ratings,CSV,CC0,180,35945,7128,89,2
+Uber Pickups in New York City,CSV,CC0,180,67549,8765,208,3
+Getting Real about Fake News,CSV,CC0,179,83505,6220,60,5
+SF Salaries,SQLite,CC0,172,95375,14929,266,7
+UFO Sightings,CSV,Other,170,48914,7234,151,2
+Death in the United States,{}JSON,CC0,168,60962,10077,188,7
+Indian Premier League,CSV,CC4,167,51036,9011,274,4
+Monty Python Flying Circus,SQLite,ODbL,163,11214,1270,4,
+Heartbeat Sounds,CSV,CC0,161,36595,3376,32,
+A 6-figure prize by soccer prediction (Live Feed),CSV,CC0,161,9497,2374,4,12
+Yelp Dataset,CSV,Other,160,21641,3347,29,6
+Used cars database,CSV,CC0,156,82725,11526,209,7
+Video Game Sales with Ratings,CSV,Other,154,61430,10594,184,8
+US Baby Names,Other,CC0,153,93894,10822,417,10
+"Homicide Reports, 1980-2014",CSV,CC4,153,55970,9390,323,11
+Dota 2 Matches,CSV,CC4,139,35491,3684,132,2
+Airplane Crashes Since 1908,CSV,ODbL,139,63487,15228,415,5
+US Mass Shootings,CSV,ODbL,139,34332,4893,40,18
+Can You Predict Product Backorders?,CSV,CC4,138,45608,6034,109,6
+SMS Spam Collection Dataset,CSV,Other,138,50596,7255,158,0
+U.S. Pollution Data,CSV,ODbL,137,56876,7252,79,5
+2015 Flight Delays and Cancellations,CSV,CC0,136,64292,12508,80,10
+FIFA 18 Complete Player Dataset,CSV,CC4,135,45156,5277,33,13
+Meta Kaggle,CSV,CC4,134,45477,3441,414,23
+Complete FIFA 2017 Player dataset (Global),CSV,ODbL,133,39473,5801,91,5
+Netflix Prize data,Other,Other,131,40645,3967,4,2
+The Enron Email Dataset,CSV,Other,128,62396,6596,144,2
+NBA shot logs,CSV,Other,127,45505,5458,148,18
+Synthetic Financial Datasets For Fraud Detection,CSV,CC4,127,45657,5222,67,10
+YouTube Faces With Facial Keypoints,Other,CC0,126,16902,1133,3,
+Default of Credit Card Clients Dataset,CSV,CC0,124,74601,7420,135,5
+Emergency - 911 Calls,CSV,ODbL,121,58170,6687,309,3
+Pima Indians Diabetes Database,CSV,CC0,120,65473,9433,368,7
+Exoplanet Hunting in Deep Space,CSV,CC0,116,25599,2231,30,6
+May 2015 Reddit Comments,Other,Other,115,46111,4626,608,11
+Bitcoin Blockchain,BigQuery,CC0,115,21005,0,405,4
+"Stack Overflow Developer Survey, 2017",CSV,ODbL,113,23607,2603,121,
+US Dept of Education: College Scorecard,CSV,CC0,112,56642,9242,191,8
+Anime Recommendations Database,CSV,CC0,111,28899,3440,96,12
+Board Games Dataset,SQLite,Other,110,19357,2575,20,
+EEG brain wave for confusion,CSV,CC0,110,29814,2454,81,6
+The History of Baseball,CSV,CC3,109,27811,4751,129,2
+2016 Parties in New York,CSV,CC0,108,12035,1834,19,0
+Breast Cancer Proteomes,CSV,Other,107,38640,4430,76,7
+55000+ Song Lyrics,CSV,CC0,107,22801,2901,55,0
+Kickstarter projects,CSV,CC4,107,13492,2525,10,5
+Students' Academic Performance Dataset,CSV,CC4,107,74553,8845,159,5
+S&P 500 stock data,Other,CC0,105,28224,3663,13,4
+Cervical Cancer Risk Classification,CSV,Other,103,21513,4466,23,18
+US Stocks Fundamentals (XBRL),CSV,CC0,102,23982,3659,74,3
+Nutrition Facts for McDonald's Menu,CSV,Other,102,53015,8441,188,2
+Philadelphia Crime Data,CSV,Other,101,42461,5158,201,9
+Human Activity Recognition with Smartphones,CSV,CC0,101,46442,4398,109,6
+Ethereum Historical Data,CSV,Other,100,22270,2188,12,0
+E-Commerce Data,CSV,Other,99,25892,4091,20,0
+FiveThirtyEight,Other,Other,96,28075,3097,85,
+GitHub Repos,BigQuery,Other,93,12297,0,348,3
+The Simpsons by the Data,CSV,Other,91,38229,4172,69,9
+2016 US Presidential Debates,CSV,CC0,88,29298,3042,169,4
+Lower Back Pain Symptoms Dataset,CSV,Other,87,26864,3212,87,7
+NBA Players stats since 1950,CSV,Other,86,20492,3474,33,4
+Pokemon- Weedle's Cave,CSV,CC0,86,15187,6606,38,4
+Craft Beers Dataset,CSV,ODbL,85,34226,4236,90,6
+Starbucks Locations Worldwide,CSV,Other,85,35348,5208,103,7
+The Holy Quran,CSV,CC0,83,10214,498,8,7
+Deep-NLP,CSV,Other,83,25369,1667,49,2
+Japan Trade Statistics,CSV,CC4,81,46192,4354,166,16
+Hacker News,BigQuery,CC0,81,14579,0,723,
+Zika Virus Epidemic,CSV,CC0,79,36494,4487,113,3
+Melbourne Housing Market,CSV,CC4,78,25357,3534,77,8
+Crimes in Chicago,CSV,Other,78,42154,6867,95,7
+Predict'em All,Other,Other,78,32888,3876,99,6
+Ocean Ship Logbooks (1750-1850),CSV,CC0,78,23833,2814,91,11
+1.88 Million US Wildfires,SQLite,CC0,77,13794,1590,9,
+Trending YouTube Video Statistics and Comments,CSV,CC0,77,26908,3111,10,
+2013 American Community Survey,CSV,CC0,77,39307,3187,662,23
+How ISIS Uses Twitter,CSV,CC0,77,52509,4804,99,12
+Celebrity Deaths,CSV,CC4,76,24667,2487,136,8
+Hospital Charges for Inpatients,CSV,Other,75,22926,2887,71,6
+Kickstarter Project Statistics,CSV,CC4,75,30850,3817,104,2
+Airlines Delay,Other,Other,75,41946,6056,53,4
+League of Legends,CSV,CC0,75,21150,2875,46,6
+A Million News Headlines,CSV,CC4,75,14723,1281,23,4
+1 million Sudoku games,CSV,CC0,74,28707,1584,20,3
+U.S. Opiate Prescriptions/Overdoses,CSV,CC0,74,22101,3366,41,4
+US Consumer Finance Complaints,CSV,Other,73,28190,3448,76,
+Demonetization in India Twitter Data,CSV,Other,72,30471,3258,168,4
+Open Exoplanet Catalogue,CSV,Other,71,15670,1541,90,
+Diamonds,CSV,Other,71,19685,3349,53,3
+Red Wine Quality,CSV,ODbL,71,15724,3359,32,4
+Keras Pretrained models,Other,CC4,70,7870,1401,27,
+"Significant Earthquakes, 1965-2016",CSV,CC0,70,24603,4104,121,
+2016 New Coder Survey,CSV,ODbL,70,31112,3282,159,6
+Twitter User Gender Classification,CSV,CC0,70,32808,3851,61,5
+CT Medical Image Analysis Tutorial,Other,Other,69,20239,1732,24,4
+International football results from 1872 to 2018,CSV,CC0,69,9293,1394,8,4
+Spotify's Worldwide Daily Song Ranking,CSV,Other,69,11139,1522,5,0
+Smart meters in London,CSV,ODbL,69,11025,1060,2,6
+LEGO Database,CSV,CC0,69,21060,3013,34,
+1.6 million UK traffic accidents,CSV,ODbL,69,23349,2474,10,2
+Adult Census Income,CSV,CC0,69,42472,5017,119,6
+Horses For Courses,CSV,CC4,68,36251,3270,122,17
+Cancer Inhibitors,Other,CC4,68,18371,1912,34,6
+Food choices,Other,CC0,67,23149,5125,41,0
+Fifa 18 More Complete Player Dataset,CSV,CC0,66,11400,2009,9,5
+First GOP Debate Twitter Sentiment,SQLite,CC4,65,29918,3990,96,3
+NIPS 2015 Papers,CSV,ODbL,64,45351,2323,76,5
+Hearthstone Cards,CSV,CC0,64,14964,1245,31,0
+Detailed NFL Play-by-Play Data 2015,CSV,Other,64,33699,3321,86,8
+Pokémon for Data Mining and Machine Learning,CSV,CC4,64,69501,2256,30,0
+Ships in Satellite Imagery,Other,CC4,64,8227,954,9,3
+Historical Air Quality,BigQuery,CC0,64,13461,0,14,
+Question Pairs Dataset,CSV,Other,64,18252,1473,80,4
+Weather Data for Recruit Restaurant Competition,CSV,CC4,64,5944,1900,5,9
+"380,000+ lyrics from MetroLyrics",CSV,CC4,63,11838,1624,18,5
+Loan Data,CSV,CC0,63,21936,3470,47,2
+The Complete Pokemon Dataset,CSV,CC0,63,15580,1544,16,0
+Amazon Reviews for Sentiment Analysis,Other,Other,62,27962,3335,9,
+"Govt. of India Census, 2001 District-Wise",CSV,ODbL,62,14182,2104,71,
+Indian Startup Funding,CSV,CC0,61,10948,1873,22,3
+Retailrocket recommender system dataset,CSV,CC4,61,23263,2357,16,6
+Social Power NBA,CSV,CC4,61,10136,1914,37,
+Fruits 360 dataset,Other,CC4,61,7198,1075,3,0
+Online Courses from Harvard and MIT,CSV,Other,61,15138,2046,59,0
+goodbooks-10k,CSV,CC4,60,16076,1803,19,6
+Top 500 Indian Cities,CSV,CC0,60,23972,2823,171,9
+Detailed NFL Play-by-Play Data 2009-2016,CSV,Other,59,11493,1149,2,7
+The Simpsons Characters Data,Other,CC4,58,16589,2701,5,5
+Glass Classification,CSV,ODbL,58,28823,3249,222,3
+Python Questions from Stack Overflow,CSV,Other,58,16001,1534,48,
+Biodiversity in National Parks,CSV,CC0,58,9304,1631,16,3
+Formula 1 Race Data,CSV,CC4,57,7684,1572,,2
+Prescription-based prediction,{}JSON,CC4,56,16920,1518,38,
+Meteorite Landings,CSV,CC0,56,18161,2212,60,2
+NIPS Papers,CSV,ODbL,55,20790,1519,68,0
+New York City Taxi with OSRM,CSV,ODbL,55,12073,3702,45,10
+NIH Chest X-rays,Other,CC0,55,8668,2051,8,0
+US Permanent Visa Applications,CSV,CC0,54,8287,1278,7,0
+League of Legends Ranked Matches,CSV,Other,54,8653,1104,6,7
+Steam Video Games,CSV,ODbL,54,16123,1832,35,2
+SF Bay Area Bike Share,CSV,Other,53,30915,5130,155,2
+eCommerce Item Data,CSV,Other,53,38272,4575,34,4
+Star Cluster Simulations,CSV,CC0,53,12745,1327,21,2
+Global Shark Attacks,CSV,Other,53,21471,3450,80,4
+Pakistan Drone Attacks,CSV,CC0,52,11241,975,44,3
+South Park Dialogue,CSV,Other,52,9836,1061,37,4
+2015 Traffic Fatalities,CSV,ODbL,52,23938,3337,188,5
+World of Warcraft Avatar History,CSV,CC0,51,22550,1634,35,5
+"18,393 Pitchfork Reviews",SQLite,Other,51,8565,928,13,
+Retail Data Analytics,CSV,CC0,51,18458,2866,4,
+Health Nutrition and Population Statistics,CSV,Other,51,19575,2935,22,
+World Cities Database,Other,Other,51,8575,1045,5,0
+Customer Support on Twitter,Other,CC4,51,10715,708,7,
+Complete Historical Cryptocurrency Financial Data,CSV,CC0,51,5077,843,,
+The Gravitational Waves Discovery Data,Other,Other,50,17399,1410,12,2
+Drosophila Melanogaster Genome,CSV,CC0,50,12357,668,21,3
+All the news,CSV,Other,50,9357,1170,5,5
+Zoo Animal Classification,CSV,ODbL,50,21525,2660,41,
+515K Hotel Reviews Data in Europe,CSV,CC0,49,9762,1312,10,3
+Top 100 Cryptocurrency Historical Data,Other,Other,49,21916,1837,,
+US county-level mortality,Other,Other,49,11632,1353,38,3
+Health Analytics,CSV,CC4,48,16860,1787,,
+Paradise-Panama-Papers,CSV,CC3,48,7055,520,5,3
+U.S. Incomes by Occupation and Gender,CSV,CC0,48,14922,2591,21,0
+OSMI Mental Health in Tech Survey 2016,Other,CC4,48,12698,2090,24,0
+National Health and Nutrition Examination Survey,CSV,Other,48,14654,2146,14,2
+Hillary Clinton and Donald Trump Tweets,CSV,Other,47,25143,2923,81,3
+2016 March ML Mania Predictions,CSV,CC4,47,12482,1485,73,2
+Annotated Corpus for Named Entity Recognition,CSV,ODbL,47,16016,1705,6,4
+Computer Parts (CPUs and GPUs),CSV,Other,47,9959,1530,6,
+Synchronized Brainwave Dataset,CSV,CC4,47,13355,1195,62,0
+Segmenting Soft Tissue Sarcomas,Other,Other,47,11570,1110,27,
+"Zillow Rent Index, 2010-Present",CSV,Other,47,11687,1794,16,
+OpenAQ,BigQuery,CC4,47,8181,0,978,3
+News Aggregator Dataset,CSV,CC0,46,22506,2284,45,2
+Extinct Languages,CSV,Other,46,12447,1399,71,2
+International Energy Statistics,Other,Other,46,5960,901,6,
+Mobile phone activity in a city,CSV,ODbL,45,25619,2596,39,2
+Magic The Gathering Cards,{}JSON,Other,45,12840,618,36,
+Epicurious - Recipes with Rating and Nutrition,Other,Other,45,16850,2477,268,
+Funding Successful Projects on Kickstarter,CSV,Other,45,8273,999,6,5
+2016 Election Polls,CSV,Other,45,18154,2251,83,2
+MovieLens 20M Dataset,CSV,Other,45,15733,2146,28,0
+Stanford Question Answering Dataset,{}JSON,CC4,45,12777,884,13,0
+Amazon Reviews: Unlocked Mobile Phones,CSV,CC0,45,19623,2350,93,4
+US ACS Financial Hedging Features,Other,Other,45,4826,605,3,5
+Every song you have heard (almost)!,CSV,ODbL,44,5629,621,3,
+Pokemon Sun and Moon (Gen 7) Stats,CSV,Other,44,13528,1311,36,0
+"French employment, salaries, population per town",CSV,CC0,44,8148,1070,7,3
+2015 Notebook UX Survey,CSV,CC4,44,12070,813,20,0
+My Complete Genome,CSV,CC0,44,12160,749,8,2
+"United States Energy, Census, and GDP 2010-2014",CSV,CC0,44,12191,1587,26,
+Crowdedness at the Campus Gym,CSV,ODbL,44,16879,1609,78,7
+ATP Men's Tour,CSV,Other,43,15319,1794,72,3
+3D MNIST,Other,Other,43,14269,830,62,2
+US Household Income Statistics,Other,Other,43,6803,1210,3,2
+Crime Statistics for South Africa,Other,Other,42,15787,2050,85,6
+CS:GO Competitive Matchmaking Data,Other,CC4,42,7863,628,5,3
+US Census Demographic Data,CSV,CC0,42,7173,1517,3,
+Aviation Accident Database & Synopses,CSV,CC0,41,18163,2487,87,
+Forest Cover Type Dataset,CSV,Other,41,13386,1303,66,0
+Cryptocoins Historical Prices,CSV,CC0,40,6216,856,10,
+2012 and 2016 Presidential Elections,CSV,Other,40,15634,2711,39,3
+Emoji sentiment,CSV,GPL,39,7772,771,,0
+Human Resources Data Set,CSV,CC4,39,12756,2047,5,2
+Text Similarity,CSV,ODbL,39,11418,866,13,
+2016 U.S. Presidential Election Memes,CSV,CC4,39,21453,1353,53,3
+Cycle Share Dataset,CSV,Other,39,14437,2009,41,3
+Daily Sea Ice Extent Data,CSV,Other,39,10577,1224,27,3
+World Bank Youth Unemployment Rates,CSV,Other,38,16609,2443,129,0
+Crime in India,CSV,CC4,38,9932,1669,5,
+80 Cereals,CSV,CC3,38,11553,1995,286,
+1000 Netflix Shows,CSV,CC0,38,11602,1660,13,2
+Who eats the food we grow?,CSV,CC0,38,4114,630,2,3
+Did it rain in Seattle? (1948-2017),CSV,CC0,38,4636,921,16,0
+Boston Airbnb Open Data,CSV,CC0,38,26681,3426,70,2
+Random Sample of NIH Chest X-ray Dataset,Other,CC0,38,5282,707,4,
+History of Hearthstone,CSV,Other,37,7991,481,5,
+Pakistan Suicide Bombing Attacks,CSV,CC0,37,11927,943,27,
+R Questions from Stack Overflow,CSV,Other,37,15609,956,39,
+Eating & Health Module Dataset,CSV,Other,37,16422,1820,88,2
+"The Academy Awards, 1927-2015",CSV,Other,37,12072,1835,31,0
+UK Car Accidents 2005-2015,CSV,CC0,36,19343,3315,29,2
+Board Game Data,CSV,CC0,36,11059,1193,39,6
+San Francisco Library Usage,CSV,Other,36,7141,771,28,
+Solar and Lunar Eclipses,CSV,CC0,36,5630,684,15,
+"Fatal Police Shootings, 2015-Present",CSV,CC4,36,10025,1737,48,
+"Olympic Sports and Medals, 1896-2014",CSV,CC4,36,15684,3899,27,
+Google Text Normalization Challenge,CSV,CC4,36,10298,1539,7,0
+NFL Draft Outcomes,CSV,Other,35,7327,975,23,0
+Horse Racing - Tipster Bets,CSV,Other,35,16607,1060,19,4
+NFL Statistics,CSV,Other,35,10675,1587,3,3
+Tree Census in New York City,CSV,CC0,35,5243,657,7,0
+Daily Happiness & Employee Turnover,CSV,ODbL,35,8454,927,9,3
+RSNA Bone Age,Other,Other,35,3306,431,5,
+GloVe: Global Vectors for Word Representation,Other,Other,35,5055,591,15,0
+An Open Dataset for Human Activity Analysis,CSV,ODbL,35,7367,665,,2
+(LoL) League of Legends Ranked Games,{}JSON,CC0,35,8996,1042,3,6
+Meetups data from meetup.com,CSV,CC0,35,2974,399,,0
+Global Commodity Trade Statistics,CSV,Other,35,3732,588,4,0
+Online Job Postings,CSV,Other,34,11063,1795,5,0
+PUBG Match Deaths and Statistics,Other,CC0,34,8572,604,2,4
+Audio Cats and Dogs,Other,CC3,34,6389,486,9,
+Religious and philosophical texts,Other,Other,34,7162,910,23,
+Blood Cell Images,Other,CC0,34,2482,349,,
+Restaurant Data with Consumer Ratings,CSV,CC0,34,11132,1709,5,
+International Datasets,CSV,Other,34,7151,1184,4,0
+"Hurricanes and Typhoons, 1851-2014",CSV,CC0,34,7344,1309,7,0
+Employee Attrition,CSV,CC0,34,22008,2429,20,3
+IMDB data from 2006 to 2016,CSV,Other,34,15077,2108,8,
+US Gross Rent ACS Statistics,Other,Other,34,2632,444,3,
+Tweets Targeting Isis,CSV,CC0,33,11563,1016,26,3
+Datascience Universities across US,CSV,ODbL,33,9630,1466,8,
+TechCrunch Posts Compilation,CSV,CC0,33,5740,505,34,
+Short Jokes,CSV,ODbL,33,9366,916,5,0
+Spotify Song Attributes,CSV,Other,33,13177,1517,7,
+PLAYERUNKNOWN'S BATTLEGROUNDS Player Statistics,CSV,CC0,33,7833,711,8,2
+NBA Enhanced Box Score and Standings Stats,CSV,CC4,33,3648,556,6,0
+350 000+ movies from themoviedb.org,CSV,Other,33,6906,942,5,6
+Crime in Los Angeles,Other,CC0,33,10038,1343,9,4
+Y Combinator Companies,CSV,Other,32,9461,833,27,0
+My Settlers of Catan Games,CSV,CC4,32,9045,555,24,
+Twitter Friends,CSV,CC4,32,5924,578,5,
+What is a note?,Other,CC0,32,5866,382,15,
+"Emotion, Aging, and Sentiment Over Time",CSV,Other,32,7811,757,13,0
+Solar Radiation Prediction,CSV,ODbL,32,7082,881,38,3
+"Structural MRI Datasets (T1, T2, FLAIR etc.)",Other,Other,32,11885,1552,14,2
+World Tennis Odds Database,CSV,CC4,32,4259,368,3,0
+German Credit Risk,CSV,ODbL,32,24058,2456,16,3
+Hospital General Information,CSV,Other,32,11210,1372,36,4
+Women's Shoe Prices,CSV,CC4,32,13544,2002,59,3
+"SpaceX Missions, 2006-Present",CSV,Other,32,6597,751,19,2
+Handwritten math symbols dataset,Other,CC0,31,9919,938,8,3
+Food Images (Food-101),Other,Other,31,10093,1551,10,0
+Historical Hourly Weather Data 2012-2017,CSV,ODbL,31,3585,593,,2
+Rainfall in India,CSV,CC4,31,6058,1308,5,0
+"English Premier League Players Dataset, 2017/18",CSV,CC0,31,8498,1156,7,0
+My Uber Drives,CSV,ODbL,31,18369,1877,26,4
+SEPTA - Regional Rail,CSV,CC0,31,25033,1803,89,11
+French presidential election,SQLite,ODbL,31,11027,909,39,2
+"Oil Pipeline Accidents, 2010-Present",CSV,CC0,31,8446,1218,40,0
+Gene expression dataset (Golub et al.),CSV,CC0,30,7855,971,28,0
+Brazil's House of Deputies Reimbursements,CSV,CC0,30,5539,465,23,6
+NEWS SUMMARY,CSV,GPL,30,6163,562,,2
+Douban Movie Short Comments Dataset,CSV,CC0,30,7193,517,3,2
+GoodReads Book reviews,CSV,CC4,30,9980,374,,
+Recommendation System for Angers Smart City,Other,ODbL,30,313,14,,0
+Hacker News Posts,CSV,CC0,30,6415,650,34,
+Education Statistics,CSV,Other,30,16223,2151,10,0
+Illegal Immigrants Arrested by US Border Patrol,CSV,CC0,30,7911,940,55,
+Road Accidents Incidence,CSV,Other,29,9609,1611,10,3
+Tourists Visiting Brazil,CSV,Other,29,6142,750,18,
+International Debt Statistics,CSV,Other,29,6979,999,10,0
+Storm Prediction Center,CSV,Other,29,10219,1212,11,5
+Suicides in India,CSV,CC4,29,11599,1940,26,5
+One Week of Global News Feeds,CSV,CC4,29,6201,377,6,2
+Tsunami Causes and Waves,CSV,CC0,29,6660,898,13,2
+"NASA Astronauts, 1959-Present",CSV,CC0,29,4751,560,17,0
+Toy Products on Amazon,CSV,CC4,29,8759,1253,3,0
+NYC Property Sales,CSV,CC0,29,9350,1362,8,3
+Arabic Handwritten Characters Dataset,CSV,ODbL,28,4195,488,3,
+Delhi Weather Data,CSV,Other,28,7647,1284,26,
+Indian Premier League CSV dataset,CSV,Other,28,15661,3225,12,
+Air quality in northern Taiwan,CSV,Other,28,7300,840,13,2
+Billboard 1964-2015 Songs + Lyrics,CSV,Other,28,7244,856,10,2
+Silicon Valley Diversity Data,CSV,ODbL,28,4654,553,7,2
+Global Food Prices,CSV,Other,28,7664,1261,3,0
+Fatal Police Shootings in the US,CSV,CC4,28,4738,1560,7,2
+Biomechanical features of orthopedic patients,CSV,CC0,28,5074,1588,9,0
+Global Historical Climatology Network,CSV,Other,28,9696,871,28,
+Restaurants on TripAdvisor,CSV,CC4,28,8571,1302,2,0
+NYC Parking Tickets,CSV,CC0,28,6894,1210,3,0
+Electoral Donations in Brazil,CSV,ODbL,27,2711,196,4,
+Moscow Ring Roads,CSV,ODbL,27,3255,1136,11,0
+Circadian Rhythm in the Brain,Other,Other,27,4722,293,8,
+Cheltenham's Facebook Groups,CSV,GPL,27,12868,862,50,
+Forecasts for Product Demand,CSV,GPL,27,6631,857,2,0
+"Bad teeth, sugar and government health spending",CSV,CC0,27,12681,2035,16,
+65 World Indexes,CSV,ODbL,27,5836,934,16,
+Historical Sales and Active Inventory,CSV,Other,27,18882,2483,34,4
+Devanagari Character Set,Other,CC0,27,5590,433,14,2
+American Time Use Survey,CSV,Other,27,22868,1159,10,0
+Journalists Killed Worldwide Since 1992,CSV,Other,27,6165,910,17,
+Chronic Disease Indicators,CSV,CC0,27,7215,859,2,0
+Correlates of War: World Religions,CSV,Other,27,7744,1208,66,0
+"Chase Bank Branch Deposits, 2010-2016",CSV,CC0,27,8385,980,8,
+Common Voice,Other,CC0,27,2281,231,,2
+Google Job Skills,CSV,CC4,26,5112,605,5,0
+US Energy Statistics,{}JSON,Other,26,3855,389,,0
+Sentiment Lexicons for 81 Languages,CSV,Other,26,4513,553,,3
+Top Spotify Tracks of 2017,CSV,Other,26,3490,567,,2
+Dark Net Marketplace Data (Agora 2014-2015),CSV,CC0,26,3688,374,,0
+World Development Indicators,CSV,Other,26,3703,490,,
+Match Statistics from top 5 European Leagues,CSV,CC0,26,4376,601,2,4
+"Finishers Boston Marathon 2015, 2016 & 2017",CSV,Other,26,8689,1238,34,2
+DC Metro Crime Data,CSV,Other,26,13501,1695,47,2
+UFO Sightings around the world,CSV,CC0,26,5323,677,5,0
+Association of Tennis Professionals Matches,CSV,CC4,26,5598,1250,11,0
+U.S. Educational Finances,Other,CC0,26,4670,671,8,0
+StarCraft II Replay Analysis,CSV,CC4,26,7535,447,27,
+"Crime in Context, 1975-2015",CSV,Other,26,7097,1295,13,
+UNHCR Refugee Data,CSV,CC4,26,3751,713,3,0
+All Lending Club loan data,CSV,CC0,25,5616,881,8,0
+101 Innovations - Research Tools Survey,CSV,CC0,25,16619,1057,19,0
+Gun Deaths in the US: 2012-2014,CSV,Other,25,10227,1828,58,0
+Bible Corpus,CSV,CC0,25,4131,331,4,
+Caravan Insurance Challenge,CSV,Other,25,12266,1169,17,
+StackSample: 10% of Stack Overflow Q&A,CSV,Other,25,10271,1146,17,0
+Hotel Reviews,CSV,CC4,25,10556,1476,24,3
+Human Development Report 2015,CSV,CC4,25,7245,1587,15,0
+2016 Global Ecological Footprint,CSV,CC4,25,5878,704,8,0
+Bitcoin Price Prediction (LightWeight CSV),CSV,CC0,25,11437,1197,18,4
+Individual Income Tax Statistics,CSV,Other,25,3861,583,,
+GitHub Issues,CSV,Other,25,1747,192,4,0
+Favicons,Other,ODbL,25,5940,448,3,2
+1000 Cameras Dataset,CSV,CC3,25,3657,648,103,0
+Google Project Sunroof,CSV,Other,25,4838,523,,3
+New Car Sales in Norway,CSV,Other,24,12553,2301,22,
+Import and Export by India from 2014 to 2017,CSV,CC4,24,4874,711,8,3
+Toxic Armories,CSV,CC0,24,1824,127,8,0
+CartolaFC,CSV,CC0,24,2895,440,3,
+Fall Detection Data from China,CSV,Other,24,8518,843,12,2
+MRI and Alzheimers,CSV,CC0,24,6550,744,4,0
+H1B Disclosure Dataset,Other,CC4,24,2616,408,,0
+Breast Histopathology Images,Other,CC0,24,3731,351,,
+Indian Liver Patient Records,CSV,CC0,24,5633,724,7,2
+Health Insurance Coverage,CSV,CC0,24,10174,1273,13,2
+US Population By Zip Code,CSV,Other,24,7880,843,,2
+Possible Asteroid Impacts with Earth,CSV,CC0,24,7140,786,18,
+Air Quality Annual Summary,CSV,CC0,24,4891,600,,0
+"Commercial Bank Failures, 1934-Present",CSV,CC0,24,7024,888,11,
+NIPS 2017: Adversarial Learning Development Set,CSV,Other,24,5478,884,8,
+UK Housing Prices Paid,CSV,Other,24,5779,705,2,3
+EEG data from basic sensory task in Schizophrenia,CSV,CC4,24,3385,237,2,0
+Burritos in San Diego,CSV,CC4,24,7355,1028,13,0
+Death Metal,CSV,Other,24,6064,455,35,2
+Brazilian Coins,Other,CC4,24,5972,568,7,6
+Current Population Survey,CSV,CC0,24,8354,909,18,
+Severe Weather Data Inventory,CSV,Other,24,8401,653,14,
+StackLite: Stack Overflow questions and tags,CSV,ODbL,24,13547,633,15,
+Hard Drive Test Data,CSV,Other,24,8405,797,93,
+Seattle Airbnb Open Data,CSV,CC0,24,11660,1504,14,
+"Vehicle Collisions in NYC, 2015-Present",CSV,CC0,24,12096,1361,32,2
+Water Consumption in a Median Size City,CSV,ODbL,23,9351,1326,45,
+The Marvel Universe Social Network,CSV,CC4,23,10201,937,5,
+Sign Language MNIST,Other,CC0,23,2853,430,5,2
+India Water Quality Data,CSV,Other,23,11509,1452,33,4
+Real Time Bidding,CSV,Other,23,6687,526,12,0
+Starcraft: Scouting The Enemy,CSV,CC0,23,3899,217,4,0
+rDany Chat,Other,CC4,23,8446,857,15,3
+Car Sale Advertisements,CSV,CC0,23,6204,990,23,0
+"Aircraft Wildlife Strikes, 1990-2015",CSV,CC0,23,3828,570,31,
+Museum of Modern Art Collection,CSV,CC0,23,4161,513,11,0
+30 Years of European Solar Generation,CSV,CC0,23,3003,378,,
+Stopword Lists for 19 Languages,Other,Other,23,1999,342,,0
+Financial Distress Prediction,CSV,Other,23,4724,495,4,0
+Chicago Taxi Rides 2016,CSV,Other,23,8417,2555,2,4
+Hotels on Makemytrip,CSV,CC4,23,5034,828,,0
+General Practice Prescribing Data,CSV,Other,23,2767,256,,6
+UN General Debates,CSV,CC0,23,2782,247,4,
+World Cities,CSV,Other,23,4070,517,3,0
+Flight Route Database,CSV,ODbL,23,5591,637,2,0
+NBA Players Stats - 2014-2015,CSV,Other,22,6516,1159,17,
+EMNIST (Extended MNIST),CSV,CC0,22,3040,516,2,
+Linear Regression,CSV,Other,22,19354,2586,52,
+Scientific Researcher Migrations,CSV,CC0,22,3123,246,7,4
+Weather data in New York City - 2016,CSV,Other,22,7931,1272,24,5
+Hacker News Corpus,CSV,Other,22,10683,325,4,
+Pantheon Project: Historical Popularity Index,CSV,CC4,22,2828,225,5,2
+Inception V3 Model,Other,Other,22,19067,668,6,0
+Movie Dialog Corpus,Other,Other,22,4862,731,3,
+Airline Database,CSV,ODbL,22,6316,634,2,0
+A millennium of macroeconomic data,CSV,CC0,22,3358,378,14,0
+Bias Media CAT,CSV,CC0,22,2227,123,7,
+2015 US Traffic Fatalities,CSV,Other,22,12990,1913,49,7
+2016 US Presidential Election Vote By County,CSV,Other,22,6616,790,13,
+Transcriptomics in yeast,CSV,CC4,22,5151,370,5,2
+T20 cricket matches,CSV,Other,22,8740,1305,11,
+Arrests by Baltimore Police Department,CSV,CC0,22,5553,605,39,0
+Campaign Finance versus Election Results,CSV,CC0,22,5072,541,7,2
+Home Price Index,CSV,CC0,22,9819,1198,8,0
+Global Food & Agriculture Statistics,CSV,Other,22,3563,433,,0
+"Chronic illness: symptoms, treatments and triggers",CSV,CC4,22,3803,433,5,0
+Bengali Digit Recognition in the Wild (BDRW),Other,CC4,21,4063,384,17,0
+Filipino Family Income and Expenditure,CSV,CC0,21,3691,571,4,2
+Weather Conditions in World War Two,CSV,Other,21,2591,363,,0
+Question-Answer Dataset,Other,CC3,21,3436,398,,0
+Kaggle Blog: Winners' Posts,CSV,CC0,21,7854,294,26,0
+Stack Overflow Tag Network,CSV,CC3,21,4188,519,3,
+Near-Earth Comets,CSV,CC0,21,3930,327,6,0
+CMS Open Payments Dataset 2013,CSV,Other,21,3944,311,2,0
+International Financial Statistics,CSV,Other,21,3819,501,2,0
+Seattle Library Checkout Records,CSV,Other,21,2903,401,2,0
+Chat messages,CSV,CC0,21,6857,539,7,
+India Air Quality Data,CSV,Other,21,6331,1135,2,0
+Run or Walk,CSV,CC4,21,5951,591,13,
+Classified Ads for Cars,CSV,CC0,21,10579,1766,4,
+1 M+ Real Time stock market data [NSE/BSE],CSV,CC4,21,9073,517,,
+Donald Trump Comments on Reddit,CSV,CC4,21,5105,444,10,0
+UFC Fight Data,CSV,CC0,21,8292,866,11,
+Shakespeare plays,Other,Other,21,4849,641,23,2
+US Adult Income,CSV,CC0,21,10046,1497,12,2
+Automobile Dataset,CSV,Other,21,13231,1741,27,
+Homelessness,CSV,CC0,21,4951,614,6,2
+News Headlines Of India,CSV,CC4,21,2758,241,8,0
+Auto-mpg dataset,CSV,CC0,21,9018,771,12,3
+Tobacco Use 1995-2010,CSV,Other,21,9878,1456,35,
+Poverty and Equity Database,CSV,Other,21,6239,727,5,
+Gun violence database,CSV,Other,21,9064,1773,13,
+2016 Olympics in Rio de Janeiro,CSV,CC0,21,9779,1737,28,0
+Innerwear Data from Victoria's Secret and Others,CSV,CC4,21,6240,811,,
+Synthetic data from a financial payment system,CSV,CC4,21,5766,630,3,
+Religious Texts Used By ISIS,CSV,CC0,21,6015,311,,2
+DJIA 30 Stock Time Series,CSV,CC0,21,2136,420,5,0
+WIDS_DataThon_2018,CSV,CC0,21,888,120,,2
+Flowers Recognition,Other,Other,21,2997,525,,0
+HappyDB,CSV,CC0,21,2832,161,,0
+Articles sharing and reading from CI&T DeskDrop,CSV,ODbL,20,2511,328,3,0
+Brazilian Federal Legislative activity,CSV,CC0,20,990,50,,0
+Car Insurance Cold Calls,CSV,Other,20,5952,945,7,2
+Higher Education Analytics,Other,CC4,20,5020,542,,0
+Weekly Sales Transactions,CSV,Other,20,7307,1119,,
+Saturday Night Live,CSV,Other,20,6831,653,18,2
+Airline Fleets,CSV,Other,20,6671,846,24,
+EURUSD - 15m - 2010-2016,CSV,CC4,20,4508,483,11,3
+World Language Family Map,CSV,CC4,20,2250,252,,
+"London Crime Data, 2008-2016",CSV,CC0,20,4444,642,,
+PM2.5 Data of Five Chinese Cities,CSV,Other,20,3401,485,,0
+Hazardous Air Pollutants,CSV,CC0,20,3557,411,,0
+Stanford Natural Language Inference Corpus,CSV,CC4,20,2609,214,,0
+"Foodborne Disease Outbreaks, 1998-2015",CSV,CC0,20,6466,1034,11,0
+US Traffic Fatality Records,BigQuery,CC0,20,4772,0,494,
+World Factbook Country Profiles,{}JSON,CC0,20,2569,407,,0
+Database of Android Apps,CSV,CC0,20,7081,636,,
+Finding and Measuring Lungs in CT Data,Other,Other,20,8000,1393,19,2
+Numenta Anomaly Benchmark (NAB),Other,Other,20,7798,864,13,0
+Demonetization in India,CSV,CC0,20,12391,1443,13,
+NBA Draft Value,CSV,Other,20,7720,1000,15,0
+"Ground State Energies of 16,242 Molecules",CSV,CC0,20,3878,338,7,5
+Religious Terrorist Attacks,CSV,GPL,20,11731,819,35,2
+Fantasy Premier League,Other,CC0,20,7337,811,6,2
+ADS-16 Computational Advertising Dataset,Other,Other,20,7276,846,8,
+FCC Net Neutrality Comments (4/2017 - 10/2017),CSV,CC0,20,2819,132,,0
+EmojiNet,{}JSON,CC4,20,3585,233,,0
+Speech Accent Archive,Other,CC4,20,1812,158,,
+Kepler Exoplanet Search Results,CSV,CC0,20,2834,229,2,0
+Men's Professional Basketball,CSV,Other,20,11434,1802,7,3
+"The Counted: Killed by Police, 2015-2016",CSV,CC4,20,5448,766,27,
+Hong Kong Horse Racing Results 2014-17 Seasons,CSV,Other,20,10197,1024,30,6
+"Refugees in the United States, 2006-2015",CSV,CC0,20,6127,1013,20,0
+Snake Eyes,Other,CC0,19,3119,204,8,2
+Where's Waldo,Other,ODbL,19,2727,286,,0
+Business and Industry Reports,CSV,CC0,19,4191,429,,2
+MIAS Mammography,Other,Other,19,2696,314,6,
+Carbon Emissions,CSV,Other,19,7789,987,14,
+Multispectral Image Classification,Other,Other,19,5449,480,10,
+Diversity Index of US counties,CSV,CC0,19,5618,752,10,0
+Hong Kong Marathon 2016 results,CSV,Other,19,9392,1138,35,2
+MNIST as .jpg,Other,CC0,19,7464,1770,4,
+"USA Income Tax Data by ZIP Code, 2014",CSV,CC0,19,6775,1287,8,0
+PokemonGO,CSV,CC0,19,17150,1278,27,3
+Election Day Tweets,CSV,CC0,19,4735,692,6,0
+Diagnose Specific Language Impairment in Children,CSV,CC0,19,3943,341,2,0
+Insurance Data,CSV,ODbL,19,6622,707,7,2
+(Better) - Donald Trump Tweets!,CSV,Other,19,9943,822,23,0
+AWS Spot Pricing Market,CSV,Other,19,4503,296,11,2
+Facebook V Results: Predicting Check Ins,CSV,Other,19,10716,996,24,0
+El Nino Dataset,CSV,Other,19,6775,690,9,0
+Police Officer Deaths in the U.S.,CSV,Other,19,6701,997,35,0
+Human Mobility During Natural Disasters,CSV,CC0,19,5416,511,13,0
+Basic Income Survey - 2016 European Dataset,CSV,CC4,19,4501,532,29,
+"Tobacco Use and Mortality, 2004-2015",CSV,CC0,19,7368,1230,10,0
+Food searches on Google since 2004,CSV,CC4,19,3309,465,,0
+Flower Color Images,Other,Other,19,4509,522,4,
+Football Matches of Spanish League,CSV,CC4,19,3606,468,5,2
+Amazon reviews: Kindle Store Category,{}JSON,Other,19,2767,342,,0
+Multilingual word vectors in 78 languages,Other,CC4,19,2338,170,2,2
+Between Our Worlds: An Anime Ontology,CSV,Other,19,1309,70,,
+Animal Bites,CSV,CC0,19,4441,590,31,0
+OECD Better Life Index 2017,CSV,Other,19,2383,482,4,0
+Consumer Price Index,CSV,CC0,19,3667,411,,0
+Behavioral Risk Factor Surveillance System,CSV,CC0,19,4051,534,,2
+Project Tycho: Contagious Diseases,CSV,Other,19,4757,783,11,2
+GeoNames database,Other,CC3,19,2321,277,,
+U.S. Healthcare Data,CSV,CC0,18,1943,198,,0
+10 Monkey Species,Other,CC0,18,1624,257,3,0
+#Charlottesville on Twitter,CSV,CC4,18,2873,298,5,2
+World Atlas of Language Structures,CSV,Other,18,2475,209,,0
+Chess Game Dataset (Lichess),CSV,CC0,18,7386,374,3,
+Internet Advertisements Data Set,CSV,ODbL,18,6006,502,3,
+Names Corpus,Other,Other,18,1566,252,,0
+Adverse Pharmaceuticals Events,Other,CC0,18,3351,244,,
+Powerlifting Database,CSV,CC0,18,1859,277,3,
+IMDB Movies Dataset,CSV,CC0,18,14145,1840,6,
+Trump's World,CSV,CC0,18,6418,395,17,
+Agricultural Survey of African Farm Households,Other,CC0,18,1957,385,2,0
+New York City Transport Statistics,CSV,Other,18,4079,399,,
+Worldnews on Reddit from 2008 to Today,CSV,Other,18,6075,498,26,
+Missing Migrants Dataset,CSV,Other,18,4396,434,7,
+"U.S. Homicide Reports, 1980-2014",Other,CC0,18,4161,602,5,0
+Leading Causes of Death in the USA,CSV,Other,18,4572,617,16,
+FourSquare - NYC and Tokyo Check-ins,CSV,Other,18,4787,463,18,0
+Movie Genre from Its Poster,CSV,Other,18,,,,
+Cervical cancer tumor vs matched control,CSV,Other,18,4389,410,7,2
+Horse Colic Dataset,Other,CC0,18,5400,717,18,2
+Pesticide Data Program (2015),CSV,Other,18,4828,622,6,
+Vegetarian and Vegan Restaurants,CSV,CC4,18,6404,831,7,0
+Health Care Access/Coverage for 1995-2010,CSV,Other,18,6422,712,6,0
+World Gender Statistics,CSV,Other,18,8010,1026,5,
+United States Commutes,CSV,CC0,18,3742,270,2,0
+Volcanic Eruptions in the Holocene Period,CSV,CC0,18,4297,542,13,0
+Aerial Bombing Operations in World War II,CSV,CC0,18,3646,429,9,0
+"Person of the Year, 1927-Present",CSV,Other,18,4441,538,26,0
+Non-invasive Blood Pressure Estimation,Other,Other,18,3650,310,,2
+Horse Racing in HK,CSV,CC0,18,7828,873,20,2
+Overlapping chromosomes,Other,CC4,18,8025,491,26,
+Minneapolis Incidents & Crime,CSV,CC3,18,6244,784,25,0
+Brazilian congress,CSV,ODbL,18,2857,201,11,2
+Iowa Liquor Sales,CSV,CC0,18,4108,685,3,2
+Urban Dictionary Words And Definitions,CSV,CC0,18,2575,202,,0
+Patent Grant Full Text,Other,Other,18,5576,305,15,0
+SherLock,CSV,Other,18,6767,516,5,
+"Health searches by US Metropolitan Area, 2005-2017",CSV,CC4,18,3011,472,3,0
+Four Shapes,Other,CC0,17,1972,218,2,
+Annual Nominal Fish Catches,CSV,CC0,17,7135,980,17,0
+Italy's Earthquakes,CSV,CC0,17,5876,615,31,
+Home Advantage in Soccer and Basketball,CSV,Other,17,4616,723,8,
+Birds' Bones and Living Habits,CSV,Other,17,4558,528,60,0
+Rolling Stone's 500 Greatest Albums of All Time,CSV,CC0,17,6069,612,23,0
+WTA Matches and Rankings,Other,CC4,17,2370,362,9,2
+2013 and 2015 Israeli Elections,CSV,CC0,17,1930,237,6,4
+Stanford Mass Shootings in America (MSA),CSV,Other,17,2969,480,2,0
+Median Listing Price (1 Bedroom),CSV,Other,17,5341,599,24,0
+Russian Troll Tweets,CSV,CC0,17,1584,180,2,2
+Face Images with Marked Landmark Points,CSV,Other,17,1830,238,4,
+Indian Prison Statistics (2001 - 2013),CSV,CC4,17,3579,558,3,0
+NSE Stocks Data,CSV,CC0,17,3169,559,,0
+"Data Stories of US Airlines, 1987-2008",CSV,CC0,17,5157,405,2,
+Top 980 Starred Open Source Projects on GitHub,CSV,CC0,17,4706,222,4,
+Hurricane Harvey Tweets,CSV,CC0,17,4604,388,3,3
+Predict NHL Player Salaries,CSV,CC0,17,4137,542,4,0
+Movehub City Rankings,CSV,Other,17,5300,1567,28,2
+Question-Answer Jokes,CSV,Other,17,8872,1063,3,2
+Now That's What I Call Music (U.S. releases),CSV,CC0,17,3549,286,2,0
+Agricuture Crops Production In india,CSV,Other,17,4171,900,2,0
+Flights in Brazil,Other,CC0,17,2434,314,2,2
+1k Pharmaceutical Pill Image Dataset,Other,ODbL,17,3303,293,,
+AWS Honeypot Attack Data,CSV,CC0,17,1747,163,2,0
+UjiIndoorLoc: An indoor localization dataset,CSV,CC4,17,5378,285,13,
+"Executive Orders, 1789-2016",CSV,CC0,17,4559,326,13,0
+Hate Crime Classification,CSV,CC0,17,3336,285,2,
+NYC Restaurant Inspections,CSV,CC0,17,3568,570,,0
+Air quality data from extensive network of sensors,CSV,CC4,16,2193,259,,0
+Appliances Energy Prediction,CSV,Other,16,2614,258,3,
+Cuff-Less Blood Pressure Estimation,Other,Other,16,5882,616,10,6
+Reddit Usernames,CSV,CC0,16,4413,140,,
+Arabic Handwritten Digits Dataset,Other,ODbL,16,1934,267,2,
+The freeCodeCamp 2017 New Coder Survey,CSV,ODbL,16,3125,301,56,0
+Earthquakes <-?-> Solar System objects?,CSV,CC4,16,3992,379,12,2
+Bank_Loan_data,Other,Other,16,5110,1001,5,3
+The Demographic /r/ForeverAlone Dataset,CSV,Other,16,4002,440,9,0
+NBA Finals Team Stats,CSV,Other,16,4059,827,5,
+The National University of Singapore SMS Corpus,{}JSON,Other,16,2655,411,,0
+Massachusetts Public Schools Data,CSV,CC0,16,3248,618,3,0
+Arabic Natural Audio Dataset,Other,CC4,16,2448,227,2,0
+Daily Fantasy Basketball - DraftKings NBA,Other,CC0,16,1181,132,,0
+Audio features of songs ranging from 1922 to 2011,CSV,Other,16,3726,190,,
+Carbon Monoxide Daily Summary,CSV,CC0,16,2549,314,,0
+Breweries and Brew Pubs in the USA,CSV,CC4,16,4156,457,9,2
+Airbnb Property Data from Texas,CSV,CC4,16,4808,479,3,2
+"Federal Reserve Interest Rates, 1954-Present",CSV,CC0,16,4339,708,8,0
+WUZZUF Job Posts (2014-2016),CSV,CC4,16,3219,361,7,
+California Electricity Capacity,CSV,Other,16,3143,419,5,
+2016 and 2017 Kitefoil Race Results,Other,Other,16,6457,166,14,0
+SF Bay Area Pokemon Go Spawns,CSV,Other,16,10116,740,22,
+Freesound: Content-Based Audio Retrieval,CSV,CC4,16,3551,264,4,0
+Codechef Competitive Programming,CSV,CC0,16,5356,308,19,2
+Paradise Papers,CSV,CC3,16,1709,111,,
+The General Social Survey (GSS),CSV,CC0,16,5637,818,3,0
+Classification of Handwritten Letters,Other,Other,16,3493,271,4,2
+Taekwondo Techniques Classification,CSV,CC4,16,3172,216,9,0
+Steven Wilson detector,CSV,CC0,16,1247,33,4,
+8a.nu Climbing Logbook,SQLite,Other,16,7143,196,2,
+Darknet Market Cocaine Listings,CSV,CC4,16,4044,250,2,
+Cryptocurrency Historical Data,Other,CC0,16,7351,625,2,2
+The Ultimate Halloween Candy Power Ranking,CSV,Other,16,3015,536,8,0
+Professional Hockey Database,CSV,Other,16,8881,1250,10,0
+City Payroll Data,CSV,Other,16,4296,568,15,0
+California Crime and Law Enforcement,CSV,Other,16,4221,602,14,0
+Roman emperors from 26 BC to 395 AD,CSV,ODbL,15,1820,157,,
+Path of exile game statistic,CSV,Other,15,1616,106,4,2
+A Year of Pumpkin Prices,CSV,CC0,15,3987,618,6,
+Crimes Committed in France,CSV,ODbL,15,2469,375,,0
+Sample Sales Data,CSV,CC0,15,16660,2006,6,3
+Pricing Model,Other,Other,15,6511,717,9,2
+"US Unemployment Rate by County, 1990-2016",CSV,CC0,15,5983,796,10,3
+NBA Free Throws,CSV,Other,15,5858,676,22,0
+Weather Madrid 1997 - 2015,CSV,Other,15,6722,907,15,0
+World's Highest Mountains,CSV,Other,15,,,,
+Quarterback Stats from 1996 - 2016,CSV,ODbL,15,4238,696,13,
+Solar Flares from RHESSI Mission,CSV,CC0,15,3146,231,13,
+No Data Sources,CSV,Other,15,4058,62,,
+2015 American Community Survey,Other,CC0,15,4427,648,21,0
+AI2 Science Questions,CSV,CC4,15,4752,323,3,0
+Eye Gaze,Other,CC4,15,7331,700,21,0
+Congress Trump Score,CSV,Other,15,4866,311,5,3
+United States Droughts by County,CSV,CC0,15,4481,576,11,0
+Baseball Databank,CSV,Other,15,5934,1043,6,0
+Online Auctions Dataset,CSV,Other,15,9146,908,22,0
+"The ""Trump Effect"" in Europe",Other,CC4,15,9238,1030,19,3
+2016 EU Referendum in the United Kingdom,CSV,CC0,15,3912,542,6,
+Pesticide Use in Agriculture,CSV,CC0,15,4307,490,4,0
+Firefighter Fatalities in the United States,CSV,CC0,15,2079,224,9,0
+NFL Football Player Stats,{}JSON,CC0,15,936,137,,
+Wikipedia Article Titles,Other,CC4,15,2075,227,,0
+Mathematicians of Wikipedia,CSV,CC0,15,2995,236,,
+Crime in Baltimore,CSV,CC0,15,5216,866,3,
+30 Years of European Wind Generation,CSV,CC0,15,2341,309,,0
+Deceptive Opinion Spam Corpus,CSV,CC4,15,1970,271,3,
+Fraudulent E-mail Corpus,Other,CC4,15,4829,557,,
+When do children learn words?,CSV,CC0,15,2379,199,,
+Pre-trained Word Vectors for Spanish,Other,CC4,15,1931,124,,0
+Data Lab,CSV,CC0,15,3268,442,,3
+Daily and Intraday Stock Price Data,Other,CC0,15,393,74,,
+24 thousand tweets later,CSV,GPL,15,1367,144,3,0
+Toxic Release Inventory,Other,Other,15,1771,226,,0
+Article Titles from TechCrunch and VentureBeat,CSV,CC4,15,600,34,,0
+Freight Analysis Framework,Other,Other,15,2331,307,2,0
+Armenian Online Job Postings,Other,Other,15,1755,630,,0
+"UN General Assembly Votes, 1946-2015",CSV,CC0,15,4799,371,7,
+City Lines,CSV,ODbL,15,4126,463,25,2
+Financial Statement Extracts,{}JSON,CC0,15,3586,526,,0
+levin vehicle telematics,CSV,CC4,15,1321,128,,2
+Multidimensional Poverty Measures,CSV,CC0,15,593,123,,0
+Education in India,CSV,CC4,14,5171,908,8,
+US Casualties of the Vietnam War,Other,Other,14,3915,410,19,
+Rare Diseases on Facebook Groups,CSV,Other,14,3455,205,3,
+Crime in Vancouver,CSV,ODbL,14,4030,594,6,2
+Facial Expression of Emotion,CSV,ODbL,14,8103,841,3,
+Rio de Janeiro Crime Records,CSV,CC0,14,1459,192,,0
+Wordgame,CSV,Other,14,1904,128,4,
+Mussel Watch,CSV,CC0,14,1268,229,5,
+3 Million German Sentences,Other,Other,14,1285,140,,0
+Every Pub in England,CSV,Other,14,2240,256,5,4
+OpenCorpora: Russian,{}JSON,CC4,14,1584,100,,0
+"US Traffic, 2015",Other,CC0,14,3768,552,,0
+Barcelona Accidents,CSV,CC4,14,2159,246,,0
+Patent Litigations,CSV,Other,14,1405,173,,0
+US jobs on Monster.com,CSV,CC4,14,4475,619,2,
+Nutrition facts for Starbucks Menu,CSV,Other,14,8329,1246,58,2
+Carbon Dioxide Levels in Atmosphere,CSV,Other,14,4797,731,9,
+Hospital ratings,CSV,CC0,14,3543,485,2,0
+Pulse of the Nation,CSV,CC0,14,1216,259,2,0
+Sarcasm on Reddit,CSV,Other,14,2091,193,2,0
+The Zurich Urban Micro Aerial Vehicle Dataset,Other,CC3,14,2610,199,4,0
+Epileptic Seizure Recognition,CSV,CC0,14,2550,281,2,
+Seattle Police Reports,CSV,Other,14,3036,234,6,0
+Bug Triaging,CSV,Other,14,4982,377,5,
+Raw Twitter Timelines w/ No Retweets,CSV,ODbL,14,5863,846,25,2
+US Veteran Suicides,CSV,CC4,14,1666,237,2,0
+German Federal Elections 2017,Other,Other,14,2462,306,4,3
+Comcast Consumer Complaints,CSV,Other,14,5616,643,16,0
+Salt Lake City Crime Reports,CSV,CC0,14,3079,228,8,2
+Marathon time Predictions,CSV,CC0,14,5193,564,22,4
+Who starts and who debunks rumors,CSV,CC0,14,4070,344,6,
+Planes in Satellite Imagery,{}JSON,CC4,14,4520,281,3,2
+US Candy Production by Month,CSV,CC0,14,4780,732,4,
+Canadian Disaster Database,CSV,Other,14,2114,284,,
+Movie Industry,CSV,CC0,14,2924,427,5,0
+Open Sprayer images,Other,CC0,14,912,80,,
+2014 American Community Survey,Other,CC0,14,7765,804,27,0
+Questions from Cross Validated Stack Exchange,CSV,Other,14,4252,276,10,2
+"Parking Violations, December 2015",CSV,Other,14,3024,242,12,0
+International Greenhouse Gas Emissions,CSV,Other,14,1634,265,2,0
+Retrosheet events 1970 - 2015,CSV,CC0,13,4345,351,20,2
+United States crime rates by county,CSV,CC0,13,4691,403,,
+Housing Prices Dataset,CSV,Other,13,12015,1438,19,0
+Dataset malware/beningn permissions Android,CSV,Other,13,6027,544,4,2
+1000 parallel sentences,CSV,CC4,13,1950,115,,0
+Museum Reviews Collected from TripAdvisor,{}JSON,Other,13,5516,737,2,3
+Dengue Cases in the Philippines,CSV,CC0,13,1920,275,3,
+Christmas Tweets,CSV,ODbL,13,4761,345,4,
+2016 US Presidential Primary Debates,CSV,CC0,13,6557,592,34,
+Movebank: Animal Tracking,CSV,Other,13,2854,202,8,2
+NYC Government Building Energy Usage,CSV,CC0,13,1869,205,2,0
+Short Track Speed Skating Database,CSV,Other,13,2269,178,5,0
+BIXI Montreal (public bicycle sharing system),CSV,CC4,13,1638,145,5,
+Elon Musk's Tweets,CSV,CC0,13,2961,254,7,
+Workers Browser Activity in CrowdFlower Tasks,CSV,CC4,13,1931,82,,3
+Risk of being drawn into online sex work,CSV,CC0,13,2737,332,2,2
+Car Features and MSRP,CSV,Other,13,4756,680,6,2
+2016 Presidential Campaign Finance,Other,CC0,13,3107,460,3,0
+What's On The Menu?,CSV,CC0,13,8325,998,5,0
+Indoor Positioning,CSV,CC4,13,5098,303,13,5
+"Taxi Routes of Mexico City, Quito and more",CSV,CC4,13,2408,306,3,2
+"French Presidential Election, 2017",CSV,Other,13,2294,286,20,
+Predict Molecular Properties,{}JSON,CC0,13,3278,255,3,
+Chinese Characters Generator,Other,Other,13,3322,231,2,2
+Marvel Characters and Universes,CSV,CC0,13,3485,351,3,0
+Symptom Disease sorting,CSV,Other,13,6461,1051,5,3
+Titanic,CSV,ODbL,13,5495,1021,11,0
+Texas Death Row Executions Info and Last Words,CSV,CC4,13,2213,238,4,2
+Trump Financial Disclosure 2017,CSV,Other,13,2537,129,,0
+London Police Records,CSV,Other,13,2516,402,,0
+Japanese lemma frequency,CSV,Other,13,1206,79,2,
+Ubuntu Dialogue Corpus,CSV,Other,13,4519,365,,0
+Malarial Mosquito Database,Other,CC4,13,3182,433,,
+CAT Scan Localization,CSV,CC0,13,2199,101,,
+World Glacier Inventory,CSV,CC0,13,2638,264,2,
+Corruption Perceptions Index,CSV,CC4,13,4255,595,8,
+2016 Advanced Placement Exam Scores,CSV,Other,13,4972,768,22,0
+"Nobel Laureates, 1901-Present",CSV,Other,13,5709,575,23,
+Adverse Food Events,CSV,CC0,13,2445,263,16,0
+Tappy Keystroke Data with Parkinson's Patients,Other,CC0,13,736,70,,0
+DeepSat (SAT-4) Airborne Dataset,CSV,CC0,13,940,53,3,0
+Women's E-Commerce Clothing Reviews,CSV,CC0,13,1901,285,3,0
+Flipkart Products,CSV,CC4,13,6046,977,2,0
+Jobs on Naukri.com,CSV,CC4,13,3128,481,2,
+London-based restaurants' reviews on TripAdvisor,CSV,CC4,13,2707,419,2,0
+TMY3 Solar,CSV,CC0,13,1587,220,,0
+Weekly Dairy Product Prices,CSV,CC0,12,2352,332,3,
+Salem Witchcraft Dataset,CSV,CC4,12,1920,237,,0
+English Word Frequency,CSV,Other,12,2251,277,2,0
+Portland Oregon Crime Data,CSV,CC0,12,1841,219,2,
+Monthly Salary of Public Worker in Brazil,CSV,CC0,12,1983,303,2,0
+Analysis about crypto currencies and Stock Index,CSV,ODbL,12,1620,143,,0
+Weather archive Jena,CSV,Other,12,1297,152,,0
+Medicare's Doctor Comparison Scores,CSV,CC0,12,2360,307,,0
+U.S. Technology Jobs on Dice.com,CSV,CC4,12,2939,394,,0
+New York City - Buildings Database,CSV,CC0,12,2503,353,4,
+New York City - Citywide Payroll Data,CSV,CC0,12,3459,584,2,
+New York City - East River Bicycle Crossings,CSV,CC0,12,2440,650,222,0
+NYC Rat Sightings,CSV,CC0,12,2171,268,,
+Dogs of Zurich,CSV,CC0,12,3376,302,39,2
+Foreign Direct Investment in India,CSV,CC4,12,1766,253,,0
+U.S. Major League Soccer Salaries,CSV,Other,12,2582,458,3,
+20 Newsgroups,Other,Other,12,3093,249,,0
+Fact-Checking Facebook Politics Pages,CSV,Other,12,2369,217,8,
+JACS Papers 1996 - 2016,SQLite,Other,12,2801,206,17,
+Metal Bands by Nation,CSV,CC0,12,2856,349,20,0
+Periodic Table of the Elements,CSV,CC0,12,4105,353,3,
+Women's Tennis Association Matches,CSV,CC4,12,2761,656,8,0
+New York City Census Data,CSV,CC0,12,2653,454,66,0
+New York City Crimes,CSV,CC0,12,4033,687,2,0
+Top 100 Chess Players Historical,CSV,Other,12,2616,212,5,
+State of the Union Corpus (1989 - 2017),Other,CC4,12,2044,1232,4,0
+Color terms dataset,CSV,CC4,12,2011,173,,0
+120 Million Word Spanish Corpus,Other,CC3,12,1502,127,,0
+Deep Sea Corals,CSV,CC0,12,1944,158,,
+"Vehicle Fuel Economy Estimates, 1984-2017",CSV,CC0,12,4716,664,9,0
+Human Rights Project: Country Profiles by Year,CSV,Other,12,2139,237,4,0
+"Terrorism in America, 2001-Present",CSV,CC0,12,3490,519,9,
+Insect Light Trap,CSV,CC0,12,1451,217,3,0
+School fires in Sweden 1998-2014,CSV,CC0,12,7149,574,26,4
+Pretrained PyTorch models,Other,CC4,12,1214,72,2,0
+Cuneiform Digital Library Initiative,CSV,CC4,12,1574,97,4,
+Good Morning Tweets,CSV,Other,12,3740,373,11,0
+Keystroke Dynamics,Other,CC0,12,4277,732,10,
+"ATP Matches, 1968 to 2017",CSV,Other,12,4062,801,11,
+SP1 factor binding sites on Chromosome1,CSV,Other,12,2896,267,6,
+Haberman's Survival Data Set,CSV,Other,12,4927,540,16,0
+Software Architectural Styles,CSV,CC0,12,3766,242,3,
+"State Energy System Data, 1960-2014",CSV,CC0,12,2969,238,4,
+Deep Learning A-Z - ANN dataset,CSV,Other,12,7648,556,20,
+NBER Macrohistory Database,CSV,CC0,12,984,90,2,0
+Crypto Currencies,CSV,ODbL,12,4363,285,2,0
+Political Social Media Posts,CSV,CC0,12,4935,504,5,0
+"Landslides After Rainfall, 2007-2016",CSV,CC0,12,3535,366,4,2
+Independent Political Ad Spending (2004-2016),CSV,CC0,12,2581,219,8,0
+Ae. aegypti and Ae. albopictus occurrences,CSV,CC0,12,3474,401,7,
+Pizza Restaurants and the Pizza They Sell,CSV,CC4,12,4445,739,10,0
+Nursing Home Compare,CSV,Other,12,2771,313,6,0
+Average SAT Scores for NYC Public Schools,CSV,CC0,12,4723,663,10,0
+Urdu Speech Dataset,Other,CC4,12,1084,55,,
+Hadith Project,Other,CC0,12,1417,62,,2
+Weekly Corn Price,Other,CC0,12,2768,324,7,
+News of the Brazilian Newspaper,CSV,CC0,12,917,121,2,0
+ODI Cricket Matches,CSV,CC4,12,1059,256,,0
+Tusbic Santander,CSV,Other,12,950,67,6,2
+Gender Info 2007,CSV,Other,12,3269,424,,0
+Diabetes 130 US hospitals for years 1999-2008,CSV,CC0,11,1849,275,5,0
+Union Membership & Coverage,CSV,Other,11,2880,205,13,0
+Mujhe Kiyun Nikala,CSV,CC0,11,1544,28,,
+Dota 2 Matches Dataset,Other,CC4,11,8902,603,4,
+"The State of JavaScript, 2016",CSV,CC0,11,2712,140,3,2
+Consumer Business Complaints in Brazil,CSV,CC4,11,2262,196,3,
+British Birdsong Dataset,CSV,Other,11,787,76,,0
+The Smell of Fear,CSV,CC4,11,1821,105,,2
+Household Electric Power Consumption,Other,ODbL,11,6146,533,12,
+Patent Assignment Daily,Other,Other,11,3064,146,9,0
+Worldwide Economic Remittances,CSV,Other,11,1452,194,2,0
+SNAP Memetracker,SQLite,CC0,11,2876,156,2,0
+Top Trending How Tos on Google,CSV,CC4,11,1401,159,,0
+Devanagari Character Dataset,CSV,ODbL,11,2256,245,,
+"Subreddit Interactions for 25,000 Users",CSV,Other,11,2837,180,4,0
+Audio Features for Playlist Creation,CSV,CC4,11,5074,414,5,
+MEDLINE and MeSH,CSV,Other,11,2771,317,,0
+Poems from poetryfoundation.org,CSV,CC0,11,1950,186,7,
+Indian Premier League SQLite Database,SQLite,ODbL,11,6050,524,6,2
+Party strength in each US state,CSV,CC0,11,2070,142,4,
+2017 Military Strength Ranking,CSV,Other,11,5827,448,4,
+News Articles,CSV,CC0,11,4660,649,8,
+Largest Dog Breed Dataset,CSV,Other,11,6193,717,12,2
+"Elon Musk Tweets, 2010 to 2017",CSV,Other,11,2726,207,12,0
+Disaster/Accident Sources,CSV,CC0,11,2275,227,2,0
+Front Door Motion & Brightness,CSV,Other,11,1370,101,3,
+"Football Manager Data (150,000+ players)",CSV,Other,11,1095,157,,
+Ironic Corpus,CSV,CC4,11,1579,115,,0
+Noun Compositionality Judgements,CSV,CC4,11,999,50,,0
+San Francisco Crime Classification,CSV,Other,11,2091,174,2,0
+Electoral Integrity in 2016 US Election,CSV,CC0,11,1777,198,3,0
+"Presidential Pardons, 1900-2017",CSV,CC0,11,2695,217,12,
+"Federal Emergencies and Disasters, 1953-Present",CSV,CC0,11,2310,311,3,0
+Sentiment140 dataset with 1.6 million tweets,CSV,Other,11,1586,197,3,0
+The fight against malaria,CSV,CC0,11,2443,361,2,0
+Accidents in India,CSV,CC4,11,,,,
+Computer Network Traffic,CSV,CC0,11,4319,365,3,
+Master's Degrees Programs (mastersportal.eu),CSV,CC0,11,2560,250,,
+Historical Military Battles,CSV,ODbL,11,1987,261,2,
+CalCOFI,CSV,Other,11,1248,138,2,
+Large Purchases by the State of CA,Other,CC0,11,1747,308,,0
+Handwritten Mathematical Expressions,Other,CC4,11,2458,219,,
+German Sentiment Analysis Toolkit,Other,Other,11,1549,112,,0
+Universal Product Code Database,CSV,CC0,11,2743,258,,0
+Santa Barbara Corpus of Spoken American English,Other,Other,11,2751,97,,0
+Austin Bike Share Trips,CSV,CC0,11,2164,336,7,0
+Severely Injured Workers,CSV,CC0,11,2491,391,5,0
+Telecom customer,CSV,Other,11,2530,383,,2
+Chicago Restaurant Inspections,CSV,CC0,11,3147,314,,2
+Chicago - Citywide Payroll Data,CSV,CC0,11,1331,187,,0
+Consumer Reviews of Amazon Products,CSV,CC4,11,5837,911,4,
+"Airports, Train Stations, and Ferry Terminals",CSV,ODbL,11,2211,469,3,0
+New York City WiFi Hotspots,Other,CC0,11,2158,251,,0
+DeepSat (SAT-6) Airborne Dataset,CSV,CC0,11,7192,83,3,0
+fatstText Common Crawl,Other,CC0,11,912,129,,3
+VGG-16,Other,CC0,11,2384,77,5,
+ResNet-50,Other,CC0,11,2038,319,42,0
+CITES Wildlife Trade Database,CSV,Other,11,1635,245,4,0
+WINGBEATS,Other,CC0,10,1176,22,7,6
+SkillCraft-StarCraft,CSV,CC4,10,654,75,,0
+Overwatch Game Records,CSV,CC0,10,1382,143,2,0
+US Public Assistance for Women and Children,Other,Other,10,654,78,2,
+"freeCodeCamp Gitter Chat, 2015-2017",{}JSON,Other,10,1049,46,3,
+Protein Data Set,CSV,ODbL,10,1603,161,,0
+Quality Prediction in a Mining Process,CSV,CC0,10,960,145,,0
+Style Color Images,Other,Other,10,1706,164,4,
+Porto Seguro public kernel results,CSV,CC0,10,234,7,2,0
+Yellow Pages of Pakistan,CSV,ODbL,10,805,31,,0
+FIFA worldcup 2018 Dataset,CSV,CC4,10,1618,179,,
+SpaceX Launch Data,CSV,CC3,10,1753,259,,
+Shanghai Car License Plate Auction Price,CSV,CC0,10,1039,127,,0
+JCPenney products,CSV,CC4,10,3274,454,3,
+Japanese-English Bilingual Corpus,Other,Other,10,1716,119,4,
+2014 New York City Taxi Trips,CSV,Other,10,3346,389,,
+FOREX: EURUSD dataset,CSV,CC0,10,2847,246,,
+Predict Mortality/Death Rate.,CSV,CC4,10,1804,283,,
+GloVe: Global Vectors for Word Representation,Other,Other,10,997,58,3,0
+U.S. Charities and Non-profits,CSV,CC0,10,1257,153,,0
+2016 NYC Real Time Traffic Speed Data Feed,CSV,Other,10,2136,292,,
+The Examiner - Spam/Clickbait News Dataset,CSV,CC4,10,3444,189,2,0
+Diplomacy Betrayal Dataset,Other,Other,10,2116,111,,3
+Blog Authorship Corpus,CSV,Other,10,1677,140,3,0
+Thai Sentiment Analysis Toolkit,Other,CC4,10,1431,87,,0
+"Incidents Around Austin, TX",Other,CC0,10,1053,89,,
+Grasping Dataset,CSV,GPL,10,2846,115,4,3
+Sensor readings from a wall-following robot,CSV,Other,10,1859,157,2,0
+Bioassay Datasets,CSV,CC0,10,2045,122,,
+Fireballs,CSV,Other,10,1349,113,2,0
+Food Ingredient Lists,CSV,CC4,10,3646,410,,0
+JCPenney products,CSV,CC4,10,3276,454,3,
+OpenAddresses - Europe,CSV,Other,10,1131,210,,0
+Japanese-English Bilingual Corpus,Other,Other,10,1718,119,4,
+Congressional Voting Records,CSV,Other,10,1328,124,2,0
+2017 March ML Mania Processed Predictions,CSV,CC4,10,1586,142,14,3
+Devanagari Character Dataset Large,Other,CC4,10,452,47,,0
+Mercedes-Benz Competition Leaderboard Shakeup,CSV,Other,10,648,39,4,
+Spelling Corrector,Other,Other,10,3023,246,16,
+Most Popular Quotes on Goodreads,{}JSON,Other,10,2756,538,6,0
+Breast Histology Images,Other,CC0,10,2425,484,8,3
+Uttar Pradesh Assembly Elections 2017,CSV,CC0,10,3070,388,21,
+COMBO-17 Galaxy Dataset,CSV,Other,10,1836,131,2,0
+Popular websites across the globe,CSV,Other,10,4243,667,7,4
+Heart Disease Ensemble Classifier,Other,CC0,10,4763,633,6,2
+Chronic KIdney Disease dataset,CSV,Other,10,4068,508,3,0
+NSE India stocks (Indices),CSV,ODbL,10,3272,452,9,0
+James Comey Testimony,CSV,Other,10,1694,113,3,2
+Chemical Health Effects and Toxicities,CSV,CC4,10,2604,330,5,0
+The ExtraSensory Dataset,CSV,CC4,10,2840,211,3,0
+Wage Estimates,CSV,CC0,10,2715,303,2,2
+"US Supreme Court Cases, 1946-2016",CSV,CC4,10,2022,235,4,0
+Active Satellites in Orbit Around Earth,CSV,CC4,10,2642,285,6,0
+Groundhog Day Forecasts and Temperatures,CSV,CC0,10,3136,298,35,0
+NY Philharmonic Performance History,CSV,CC0,10,1676,230,3,4
+Beat The Bookie: Odds Series Football Dataset,CSV,CC4,10,1141,125,,0
+Swedish central bank interest rate and inflation,CSV,CC4,10,4372,463,21,0
+Bank Marketing,CSV,CC0,10,10244,871,8,2
+Brazilian Motor Insurance Market,CSV,Other,10,5121,381,8,2
+Environmental Sound Classification 50,Other,CC4,10,2180,140,,0
+Racing Kings (chess variant),CSV,ODbL,10,5986,134,6,4
+Marginal Revolution Blog Post Data,CSV,CC0,10,2435,136,5,0
+Parkinson's Disease Observations,CSV,Other,10,4020,414,4,
+SciRate quant-ph,CSV,CC4,10,3014,117,11,
+Web crawler for real estate market,Other,ODbL,10,6185,451,2,
+Kospi Stock Price,Other,CC0,10,1517,128,,0
+Recipe Ingredients Dataset,{}JSON,Other,10,6187,656,2,0
+Australian Marriage Law Postal Survey,CSV,CC0,10,1288,93,3,
+Tatoeba Sentences,CSV,CC3,9,1019,30,2,0
+Air pollutants measured in Seoul,CSV,CC4,9,1307,207,3,0
+5-Day Data Challenge Sign-Up Survey Responses,CSV,CC0,9,1078,120,46,
+Lord Of The Rings Data,CSV,Other,9,1575,121,3,0
+StarCraft II matches history,CSV,Other,9,1421,83,2,0
+All UK Active Companies By SIC And Geolocated,CSV,CC0,9,921,83,,
+"Publication and usage reports, 1998-2017-10 (BR)",Other,CC0,9,565,33,,0
+Electron Microscopy 3D Segmentation,Other,Other,9,1831,176,7,0
+French Reddit Discussion,Other,CC0,9,1066,68,,
+Romania Earthquake Historical Data,CSV,ODbL,9,,,,
+Vincent van Gogh's paintings,CSV,Other,9,3640,189,,
+MovieLens 100K Dataset,Other,CC0,9,8122,801,15,0
+Hand Tremor Dataset for Biometric Recognition,CSV,Other,9,1532,81,2,2
+Periodic Table of Elements Mapped to Stocks,CSV,CC0,9,4984,337,20,4
+Ofcom UK Broadband Speed 2016 Open dataset,CSV,ODbL,9,4532,283,8,2
+Online Chinese Chess (Xiangqi),CSV,CC4,9,3414,151,5,2
+Brazilian Aeronautics Accidents,CSV,Other,9,2442,202,8,2
+Web visitor interests,CSV,Other,9,5599,248,,0
+Things on Reddit,Other,Other,9,1345,74,4,0
+Video Game Sales and Ratings,CSV,Other,9,3991,634,15,0
+Swedish Crime Rates,CSV,CC0,9,5256,632,14,
+NFL Arrests 2000-2017,CSV,Other,9,10216,377,2,0
+Urdu-Nepali Parallel Corpus,Other,CC4,9,548,36,,0
+Case Data from San Francisco 311,CSV,Other,9,1894,131,7,0
+Baboon Mating and Genetic Admixture,CSV,CC0,9,2848,185,4,0
+Pesticide Data Program (2013),CSV,Other,9,2382,314,4,0
+"Executions in the United States, 1976-2016",CSV,Other,9,3206,427,10,2
+California Kindergarten Immunization Rates,CSV,CC0,9,2609,326,2,2
+Mr Donald Trump Speeches,CSV,Other,9,2679,242,3,
+NYC Transit Data,CSV,Other,9,2572,262,,
+New York City Taxi Trip - Distance Matrix,CSV,CC0,9,1769,151,6,3
+U.S. Commercial Aviation Industry Metrics,CSV,CC0,9,2208,351,2,
+Uniqlo (FastRetailing) Stock Price Prediction,CSV,CC0,9,3673,330,16,8
+Clash Royale Matches,Other,CC0,9,1418,80,3,2
+Bus Breakdown and Delays NYC,CSV,CC0,9,1712,192,6,0
+Parkinson's Vision-Based Pose Estimation Dataset,Other,Other,9,1872,114,,
+London Borough Demographics,CSV,ODbL,9,1930,178,2,2
+Boston House Prices,CSV,Other,9,3757,459,2,
+World of Warcraft Demographics,CSV,CC0,9,1442,104,,2
+Digimon Database,CSV,CC4,9,2210,233,50,0
+CMU Pronouncing Dictionary,Other,Other,9,1239,75,3,0
+Spy Plane Finder,CSV,CC0,9,1510,94,,0
+Open Data 500 Companies,CSV,CC4,9,4252,426,,0
+Stanford Open Policing Project - Texas,Other,Other,9,1244,98,,0
+Stanford Open Policing Project - Florida,Other,Other,9,942,89,,0
+Stanford Open Policing Project - Bundle 1,CSV,Other,9,1092,157,,0
+NASDAQ financial fundamentals,CSV,CC4,9,2142,233,,0
+EMPRES Global Animal Disease Surveillance,CSV,ODbL,9,931,152,3,0
+Cat Dataset,Other,CC0,9,555,34,,0
+Traditional Decor Patterns,Other,Other,9,981,66,,0
+Indoor location determination with RSSI,CSV,CC4,9,613,57,,0
+Bad Bad Words,CSV,CC0,9,209,34,,0
+2015 de-identified NY inpatient discharge (SPARCS),CSV,CC0,9,726,102,2,0
+Derivatives Trading,CSV,CC0,9,2450,159,,
+Gone With The Wind,Other,Other,9,774,51,3,0
+Last Words of Death Row Inmates,CSV,ODbL,9,1758,201,,
+Cryptocurrencies,CSV,CC0,9,1024,172,,0
+BLE RSSI Dataset for Indoor localization,CSV,CC4,9,778,467,,
+Indian hotels on Booking.com,CSV,CC4,9,1723,248,,0
+wordbatch,Other,GPL,8,1299,327,18,
+Help Blind Community to walk,Other,CC0,8,515,18,,0
+Pakistan Intellectual Capital,CSV,CC0,8,3006,47,4,
+Simplified Human Activity Recognition w/Smartphone,CSV,Other,8,1360,121,5,0
+Bay Area Rapid Transit Ridership,CSV,CC0,8,677,96,,0
+Synthetic Speech Commands Dataset,Other,CC4,8,460,103,,0
+EmoSim508,{}JSON,CC4,8,649,31,,0
+Binance Crypto Klines,Other,CC0,8,664,65,,
+"U.S. Public Pensions Data, fiscal years 2001-2016",CSV,CC4,8,1287,154,,
+Old Newspapers,Other,CC0,8,2672,317,,0
+Las Vegas TripAdvisor Reviews,CSV,Other,8,3073,260,,
+All Shark Tank (US) pitches & deals,CSV,CC0,8,2444,170,2,
+Interest Rate Records,CSV,Other,8,1985,312,,0
+Baltimore 911 Calls,CSV,CC3,8,2124,211,2,0
+HSE Thai Corpus,CSV,Other,8,747,45,,0
+"Home Mortgage Disclosure Act Data, NY, 2015",CSV,CC0,8,1520,173,,
+Who's the Boss? People with Significant Control,Other,CC0,8,2053,243,,0
+US Facility-Level Air Pollution (2010-2014),CSV,CC0,8,1751,221,2,0
+UFC Fights Data 1993 - 2/23/2016,CSV,Other,8,1574,160,2,3
+Net Neutrality Accountability,{}JSON,CC4,8,878,67,2,
+Localization Data for Posture Reconstruction,CSV,Other,8,1603,82,,0
+Identifying Interesting Web Pages,Other,Other,8,2857,272,5,2
+Vehicle Fuel Economy,CSV,CC0,8,2557,321,,0
+Producer Price Index,Other,CC0,8,1637,201,2,0
+Vietnam War Bombing Operations,CSV,CC0,8,1492,152,,0
+Exchange Rates,CSV,CC0,8,2275,363,,0
+Word2Vec Sample,Other,Other,8,1588,115,2,0
+NYC Dog Names,CSV,CC0,8,1778,207,3,0
+Cheltenham Crime Data,CSV,ODbL,8,3009,247,40,0
+"Clinical, Anthropometric & Bio-Chemical Survey",CSV,CC4,8,666,142,,0
+Street Network of New York in GraphML,Other,ODbL,8,1761,205,3,0
+Adult Census Income with AI,CSV,CC0,8,1617,132,2,0
+"Country Socioeconomic Status Scores, Part II",CSV,ODbL,8,1854,205,,
+ENEM 2015,CSV,CC0,8,1198,107,,
+SEC (EDGAR) Company Names & CIK Keys,CSV,ODbL,8,1245,131,,
+Recommender Click Logs- Sowiport,Other,Other,8,1969,169,,0
+Who Dies? Physics Puzzle Dataset,CSV,CC0,8,1930,64,,
+The Sign Language Analyses (SLAY) Database,CSV,CC0,8,1485,103,,0
+Brazilian Portuguese Literature Corpus,Other,CC0,8,1126,75,,0
+Austin Crime Statistics,CSV,CC0,8,1333,153,2,0
+Trappist-1 Solar System,CSV,CC0,8,3389,240,8,
+Producer Price Index,Other,CC0,8,1639,201,2,0
+Open Beauty Facts,Other,ODbL,8,4126,578,4,
+Correlates of War: Interstate Wars,CSV,Other,8,2651,290,2,
+Ideology Scores of Supreme Court Justices,CSV,Other,8,2188,84,4,0
+Israeli Settlements in the West Bank,CSV,CC0,8,2543,159,6,
+OpenAddresses - U.S. West,CSV,Other,8,851,138,,0
+EveryPolitician,{}JSON,ODbL,8,1196,175,,0
+Top Running Times,CSV,Other,8,1573,234,8,0
+Pokemon Trainers Dataset,SQLite,ODbL,8,2834,180,3,0
+Presidential Inaugural Addresses,CSV,CC0,8,2117,240,12,
+Australian Football League Database,Other,ODbL,8,2821,307,4,3
+Public Transport in Zurich,CSV,CC0,8,2384,165,6,0
+Elevation Data meets SF Fire Department Calls,CSV,Other,8,2180,110,4,0
+News and Blog Data Crawl,CSV,CC0,8,2304,182,,0
+Awesome Public Datasets as Neo4j Graph,CSV,CC0,8,3989,190,,0
+2017 State Assembly Election Results,CSV,CC0,8,1783,144,3,0
+Urban Dictionary Terms,CSV,CC0,8,2845,268,5,0
+IndieGoGo Project Statistics,CSV,ODbL,8,2266,311,5,
+Help with Real Estate Closed Price Model,CSV,Other,8,2241,264,17,4
+Human Instructions,Other,CC4,8,2730,151,,
+"ARXIV data from 24,000+ papers",CSV,ODbL,8,1673,106,,
+Bible Verses from King James Version,CSV,CC4,8,3480,214,,
+How News Appears on Social Media,CSV,Other,8,2507,384,5,2
+Equitable Sharing Spending Dataset,CSV,Other,8,1879,98,,0
+Parole hearings in New York State,CSV,Other,8,1846,156,6,
+"Speed Camera Violations in Chicago, 2014-2016",CSV,CC0,8,3498,372,19,2
+Member States of the European Union,CSV,CC0,8,2904,320,4,
+GPS Watch Data,Other,CC0,8,2540,117,8,0
+Coal Production Referenced from data.gov.in,CSV,ODbL,8,2077,224,7,
+Encrypted Stock Market Data from Numerai,CSV,CC0,8,3958,127,9,
+World Population,CSV,ODbL,8,2961,431,14,
+What.CD Hip Hop,SQLite,Other,8,2768,176,7,0
+SVHN Preprocessed Fragments,Other,Other,8,1129,99,,
+The Works of Charles Dickens,Other,Other,8,873,77,,0
+Taiwan PTT stock topics and intraday trading chats,CSV,ODbL,8,1106,83,,0
+Car_sales,CSV,Other,8,2258,471,,
+Run Activities,{}JSON,CC4,8,1572,162,,0
+"Harvard Course Enrollments, Fall 2015",CSV,CC0,8,3135,287,4,0
+AP Computer Science A Exam Dataset,CSV,Other,8,3833,259,7,
+Missing people in Russia,CSV,CC4,7,1094,85,,
+Pokemon Images,Other,CC0,7,1043,80,,0
+ENEM 2016,CSV,CC0,7,1017,119,3,
+Ukrainian Parliament Daily Agenda Results,{}JSON,CC0,7,633,32,,
+Lithuanian parliament votes,CSV,ODbL,7,293,14,,0
+Stock Index,Other,ODbL,7,2548,174,,0
+National Accounts,CSV,Other,7,901,98,,0
+DSL Corpus Collection (DSLCC),Other,Other,7,346,18,,0
+Classic Literature in ASCII,Other,CC0,7,743,64,,0
+Formspring data for Cyberbullying Detection,CSV,Other,7,4698,405,,
+Tumblr GIF Description Dataset,Other,Other,7,3167,91,,
+League of Legends Summoner Ids and Data - 2016,CSV,CC4,7,2193,201,2,0
+Stack Overflow 2016 Dataset,CSV,CC0,7,4242,304,14,
+Pokemon Go Gen II (251),CSV,Other,7,2055,145,,0
+Determine the pattern of Tuberculosis spread,CSV,Other,7,1730,203,7,0
+San Francisco based Startups,CSV,Other,7,2448,179,,
+Grocery Store Data Set,CSV,CC0,7,8523,1052,2,0
+Reddit Comments on the Presidential Inauguration,CSV,CC4,7,2599,89,,
+National Footprint Accounts data set (1961-2013),CSV,Other,7,1890,138,7,2
+Minneapolis Air Quality Survey,CSV,CC0,7,805,73,,0
+Country Socioeconomic Status Scores: 1880-2010,CSV,Other,7,2651,301,10,
+Oklahoma Earthquakes and Saltwater Injection Wells,CSV,CC0,7,1299,111,,3
+Tom Cruise's Love Interest Age Gap,CSV,CC0,7,1214,81,3,
+Gas sensor array under dynamic gas mixtures,Other,ODbL,7,1087,84,,0
+Harvard Tuition,CSV,CC0,7,2855,292,4,0
+"Vacation Rental Properties in Palm Springs, CA",CSV,CC4,7,2103,172,5,0
+NFL Arrests,CSV,CC4,7,2418,331,3,0
+NIPS17 Adversarial learning - Final results,CSV,Other,7,2419,231,2,
+High-Content Screening with C.Elegans,Other,Other,7,1639,100,7,0
+Linux Kernel Git Revision History,CSV,CC4,7,1899,89,5,0
+COMPAS Recidivism Racial Bias,CSV,ODbL,7,1693,116,,
+OECD Productivity Data,CSV,Other,7,1784,280,4,0
+Olympic Track & Field Results,CSV,Other,7,2673,375,11,
+Nashville Housing Data,CSV,CC0,7,4353,528,14,0
+Bank Loan Status Dataset,CSV,Other,7,3936,494,,
+Micro-Loans,CSV,Other,7,834,228,,
+Armenian Pub Survey,CSV,Other,7,3936,312,36,2
+March Madness Forecasts - Men & Women's,CSV,Other,7,3190,286,6,2
+Opendata AIG Brazil,CSV,ODbL,7,1880,122,7,
+"Linux Gamers Survey, Q1 2016",CSV,CC4,7,1839,142,2,0
+Residential Energy Consumption Survey,CSV,Other,7,3902,444,2,
+My Chess Games,CSV,CC4,7,3192,178,2,4
+Exercise Pattern Prediction,CSV,Other,7,4984,376,10,0
+Prosper Loan Data,CSV,Other,7,4662,407,2,0
+2014 World Cup Forecasts and Scores,CSV,CC4,7,3241,347,,0
+Presidential Approval Ratings,CSV,Other,7,2639,200,3,
+Academic Scores for NCAA Athletic Programs,CSV,Other,7,3874,514,4,3
+The Metropolitan Museum of Art Open Access,CSV,CC0,7,2139,187,4,0
+Alpha-Numeric Handwritten Dataset,Other,CC0,7,1634,175,,0
+New Orlean's Slave Sales,Other,Other,7,1818,238,,
+Jester Online Joke Recommender,Other,Other,7,1190,128,,0
+Fine-grained Context-sensitive Lexical Inference,CSV,GPL,7,571,31,,0
+Student Survey,CSV,CC4,7,2988,377,,
+Fracking Well Chemical Disclosure Datasets,CSV,CC4,7,1374,142,6,
+ACB 1994-2016 Spanish Basketball League Results,SQLite,Other,7,1177,77,,
+Ground Parrot Vocalisation Dataset,Other,CC0,7,844,42,2,
+Eurovision YouTube Comments,CSV,CC4,7,1559,98,,
+Corpus of bilingual children's speech,Other,CC4,7,1904,474,3,0
+Independence days,CSV,CC4,7,1171,96,4,
+Discourse Acts on Reddit,{}JSON,Other,7,934,59,,0
+"ACLED African Conflicts, 1997-2017",CSV,CC0,7,1131,94,,
+KCBS Barbeque Competitions,CSV,CC0,7,1776,139,3,
+"US Trademark Case Files, 1870-2016",Other,CC0,7,1027,112,,
+Fortune 500 Diversity,CSV,Other,7,2300,269,3,
+Stanford Open Policing Project - Washington State,Other,Other,7,806,91,,0
+OpenAddresses - Asia and Oceania,CSV,Other,7,1019,153,,0
+Foreign Exchange (FX) Prediction - USD/JPY,CSV,CC0,7,1672,122,3,0
+Shanghai PM2.5 Air Pollution Historical Data,CSV,CC0,7,2665,173,2,2
+Kaggle Movie League Results,CSV,CC0,7,86,2,,0
+Q & A Discussed in Parliament of India,CSV,CC4,7,1429,137,2,0
+NYC taxi trip durations,CSV,CC0,7,1640,200,2,
+NSE Listed 1000+ Companies' Historical Data,Other,CC0,7,378,56,,0
+UK Traffic Counts,CSV,Other,7,1997,265,,0
+The Bank of England’s balance sheet,CSV,CC0,7,1558,184,,0
+The Tate Collection,CSV,CC0,7,1216,99,3,0
+SF Street Trees,CSV,CC0,7,823,62,,0
+Nashville Meetup Network,CSV,CC0,7,532,37,4,0
+Alcohol and Drug Consumption of German Teens,CSV,Other,7,3037,444,,
+Solar generation and demand Italy 2015-2016,CSV,Other,7,1014,127,2,0
+Faulty Steel Plates,CSV,Other,7,2231,207,3,0
+World Bank's Major Contracts,CSV,CC0,7,1827,186,,0
+Indian Hotels on Goibibo,CSV,CC4,7,1476,205,2,0
+Bestseller books on Paytm,CSV,CC4,7,2316,273,,0
+Chicago Red Light Violations,CSV,CC0,7,1432,122,2,
+Punkt Sentence Tokenizer Models,Other,Other,7,1223,37,,0
+TSA Claims Database,CSV,CC0,7,1287,153,3,0
+Elevators in New York City,CSV,CC0,7,1471,100,2,
+ResNet-152,Other,CC0,7,513,8,,0
+notMNIST,Other,CC0,7,686,62,3,0
+Upvoted Kaggle Dataset,CSV,CC0,7,116,3,2,0
+Food 101,Other,Other,6,396,62,,0
+GOSU.AI Dota 2 Game Chats,CSV,Other,6,498,16,,0
+Tatoeba,CSV,CC3,6,699,30,2,0
+Cargo 2000 Dataset,Other,CC0,6,709,87,,0
+Ramen Ratings,CSV,Other,6,259,21,2,0
+Mobile Price Classification,CSV,Other,6,529,98,,
+Cannabis Strains,CSV,Other,6,684,78,2,
+Top 23 Users in Kernel Ranking,Other,CC0,6,203,15,,
+Oil and Gas,CSV,Other,6,661,78,,0
+elemental_properties,CSV,CC0,6,166,638,,0
+2016 U.S. Presidential Campaign Texts and Polls,Other,CC0,6,765,90,,0
+Medical Cost Personal Datasets,CSV,ODbL,6,600,112,,0
+fastText English Word Vectors Including Sub-words,Other,CC3,6,498,33,,0
+"Beer, Liquor, and Wine Reviews",CSV,CC4,6,370,37,,0
+Grammar and Online Product Reviews,CSV,CC4,6,573,48,,0
+Eclipse Megamovie,BigQuery,CC0,6,827,0,2,0
+ResNet-50,Other,CC0,6,568,4,,0
+ResNet-101,Other,CC0,6,459,7,,0
+FourSquare - NYC Restaurant Check-Ins,CSV,Other,6,1229,93,,0
+Telstra Competition Dataset,CSV,Other,6,783,45,10,0
+World Soccer - archive of soccer results and odds,SQLite,Other,6,1542,209,2,4
+Crop Nutrient Database,CSV,CC0,6,1790,162,,0
+Seattle Police Department 911 Incident Response,CSV,CC0,6,1467,141,,0
+Allen-Unger Global Commodity Prices,CSV,CC0,6,779,70,2,0
+Historical American Lynching,CSV,CC4,6,847,46,,0
+Twitter vs. Newsletter Impact,CSV,CC4,6,1675,173,,0
+World Color Survey,Other,Other,6,1598,129,,0
+London Fire Brigade Calls,CSV,CC0,6,1380,146,,0
+UK fleet and foreign fleet landings by port,CSV,Other,6,827,55,,0
+NASA Facilities,CSV,CC0,6,899,66,2,0
+Space walking,CSV,CC0,6,1189,89,2,
+The National Summary of Meats,CSV,Other,6,1019,94,,0
+BRFSS 2001-2010,CSV,CC0,6,1301,214,,0
+Federal Firearm Licences,CSV,CC0,6,1182,110,2,
+United States Code,Other,CC0,6,731,53,,0
+NYC Filming Permits,CSV,CC0,6,681,49,,0
+2016 VOTER Survey Data Set,Other,CC4,6,1704,254,,
+General Election Results,CSV,CC0,6,1351,102,,
+Austin Weather,CSV,GPL,6,1496,245,8,
+South Africa Stock Market Data,CSV,CC0,6,2702,321,4,
+NBA 16-17 regular season shot log,Other,Other,6,1156,150,2,3
+"Primetime Emmy Awards, 1949-2017",CSV,CC0,6,1265,118,,
+New Zealand Migration,CSV,Other,6,2278,257,24,3
+Nominal € GDP per capita of Spain (by regions),CSV,CC0,6,3487,126,2,
+Paranormal Romance Novel Titles,Other,CC4,6,1004,46,3,0
+Colonia Corpus of Historical Portuguese,CSV,CC0,6,601,37,,0
+Dictionary of American Regional English (DAREDS),{}JSON,CC4,6,864,51,,0
+ATP Tennis Dataset,CSV,CC4,6,1421,194,,0
+"National Employment, Hours, and Earnings",CSV,CC0,6,1044,160,,0
+Amending America,CSV,CC0,6,852,51,3,
+Stanford Open Policing Project - California,CSV,Other,6,1030,119,2,0
+Stanford Open Policing Project - Bundle 2,CSV,Other,6,678,120,,0
+Current Properati Listing Information,CSV,Other,6,2669,85,,
+OpenAddresses - U.S. Northeast,CSV,ODbL,6,824,137,,0
+OpenAddresses - U.S. South,CSV,CC0,6,730,129,,0
+OpenAddresses - U.S. Midwest,CSV,Other,6,684,104,,0
+Parkinson Disease Spiral Drawings,Other,CC0,6,1903,155,,0
+Robocall Complaints,CSV,CC0,6,841,57,,0
+"Build Bridges, Not Walls",CSV,CC0,6,1928,109,,
+UK Constituency Results,CSV,CC0,6,1211,98,4,0
+The Apnea-ECG database,Other,Other,6,1648,124,4,
+Cars Data,CSV,CC0,6,6149,603,4,0
+The VidTIMIT Audio-Video Dataset,Other,Other,6,2027,114,6,
+2017 #Oscars Tweets,CSV,Other,6,3190,235,7,
+Linux Operating System Code Commits,CSV,Other,6,1834,89,8,
+Overwatch,CSV,CC0,6,3628,172,,2
+League of Legends MatchID dataset V2.0,CSV,CC0,6,6431,246,,
+HR Dataset for Analytics,Other,Other,6,4235,708,3,0
+Train.CSV,CSV,CC0,6,5152,895,6,0
+The Bachelor & Bachelorette Contestants,CSV,CC0,6,3390,250,5,
+Sberbank Russian Housing Market Data Fix,CSV,Other,6,1201,135,24,
+White House Salaries,CSV,CC0,6,2520,409,5,
+Restaurants That Sell Tacos and Burritos,CSV,CC4,6,1692,129,,
+Childhood Blood Lead Surveillance,CSV,CC0,6,1673,200,2,
+2014 Public Libraries Survey,CSV,CC0,6,1904,261,5,0
+"Museums, Aquariums, and Zoos",CSV,CC0,6,2653,335,17,
+Newspaper Endorsements of Presidential Candidates,CSV,Other,6,992,79,2,0
+"Freedom of the Press, 2001-2015",CSV,Other,6,1824,219,7,0
+Montreal bike lanes,CSV,ODbL,6,1390,46,5,
+Obama White House,CSV,Other,6,2434,158,6,
+Project Gutenberg's Top 20 Books,Other,Other,6,889,141,,0
+Weather in Szeged 2006-2016,CSV,CC4,6,2943,628,229,0
+Technology Price Index 2016,CSV,Other,6,5034,603,3,
+Smogon 6v6 Pokemon Tiers,CSV,CC0,6,1937,96,2,0
+Alaska Airport Data,CSV,CC0,6,1561,158,2,0
+Stock Pricing,CSV,Other,6,3667,345,13,0
+Type Allocation Code (TAC),CSV,ODbL,6,8332,367,,0
+"Los Angeles Crime Data, 2012 to 2016",CSV,Other,6,3419,344,7,
+"Ebola Cases, 2014 to 2016",CSV,ODbL,6,2365,318,4,
+"Over 13,000 Steam Games",CSV,Other,6,2245,108,,2
+"Crime in Bulgaria, 2000 to 2014",CSV,Other,6,1454,155,2,
+Narrativity in Scientific Publishing,CSV,CC4,6,1221,82,,0
+SF Historic Secured Property Tax Rolls,CSV,Other,6,1446,78,,0
+SF Restaurant Inspection Scores,CSV,Other,6,4378,355,8,0
+The Global Avian Invasions Atlas,CSV,CC4,6,833,74,,0
+Open Flood Risk by Postcode,CSV,Other,6,1883,128,,0
+Freedom of Information Act Requests,CSV,CC0,6,1449,80,7,0
+2017 Iditarod Trail Sled Dog Race,CSV,Other,6,1378,75,4,0
+Kabaddi World Cup 2016,CSV,CC4,6,3180,156,6,
+Wine Quality,CSV,ODbL,6,1875,307,2,0
+Adult income dataset,CSV,Other,6,12671,1244,13,
+Press Release by Govt. of India,CSV,CC4,6,952,55,,0
+Generating chromosome overlapps,Other,CC0,6,2027,133,6,0
+Datasets for ISRL,CSV,CC0,6,5605,679,5,
+Missing People,CSV,CC0,6,2501,197,2,
+EEG Analysis,CSV,CC0,6,4408,289,5,
+Kung Fu Panda,CSV,CC0,6,869,15,,
+Fatigue striations marked on SEM photos,Other,CC4,6,1767,61,,
+European Soccer Database,CSV,ODbL,6,3072,375,2,
+Norwegian Development Funds 2010-2015,CSV,CC0,6,1835,86,5,
+Traffic Violations in USA,CSV,CC0,6,1860,228,2,2
+State Election Results 1971 - 2012,CSV,CC0,6,1385,157,3,
+Arrest Related Violence in California,CSV,CC0,6,1171,163,,0
+The Works of Charles Darwin,Other,Other,6,1001,65,,0
+HanziDB,CSV,ODbL,6,903,71,,
+Employment in Manufacturing,CSV,Other,6,1346,89,,0
+National Wetlands Inventory,CSV,Other,6,1872,91,4,0
+Shinzo Abe (Japanese Prime Minister) Twitter NLP,CSV,CC3,6,1593,60,10,
+Food 101,Other,Other,6,398,62,,0
+Tatoeba,CSV,CC3,6,701,30,2,0
+Cannabis Strains,CSV,Other,6,687,78,2,
+Oil and Gas,CSV,Other,6,663,78,,0
+elemental_properties,CSV,CC0,6,168,638,,0
+2016 U.S. Presidential Campaign Texts and Polls,Other,CC0,6,767,90,,0
+Eclipse Megamovie,BigQuery,CC0,6,830,0,2,0
+ResNet-50,Other,CC0,6,571,4,,0
+ResNet-101,Other,CC0,6,462,7,,0
+Brazil's Parliamentary Quota - Cota Parlamentar,CSV,Other,5,184,14,,
+Football striker performance,CSV,CC0,5,235,41,,0
+Ben Hamner's Tweets,CSV,Other,5,318,10,,0
+Emotions Sensor Data Set,CSV,ODbL,5,689,84,,0
+Diabetes,Other,CC0,5,734,116,,
+VGG-19,Other,CC0,5,915,23,,0
+InceptionV3,Other,CC0,5,663,26,2,0
+AlexNet,Other,CC0,5,720,40,,0
+DenseNet-201,Other,CC0,5,341,3,,0
+InceptionV3,Other,CC0,5,342,8,,0
+ResNet-34,Other,CC0,5,476,8,,0
+International T20 Cricket,CSV,CC0,5,875,175,,0
+English Premier League in-game match data,Other,CC4,5,875,126,,2
+BITCOIN,CSV,CC0,5,2565,339,2,0
+Canada National Justice Survey 2016,CSV,Other,5,801,82,,
+Handwritten Letters 2,Other,Other,5,1044,86,,0
+Porn Data,CSV,CC0,5,1030,88,,0
+Donald Trump Forbes 400 Rankings,CSV,Other,5,996,55,,0
+Candidatos Deputado Federal e Estadual 2014,CSV,CC0,5,235,18,2,
+Developers and programming languages,CSV,CC0,5,424,56,4,0
+DACA Recipients,CSV,Other,5,1311,124,3,0
+17 Years of Resident Advisor Reviews,CSV,Other,5,918,74,,0
+SA & Victorian pet ownership data,CSV,CC0,5,844,89,2,0
+Gymnastics World Championships 2017,CSV,CC0,5,669,43,7,0
+A-Z Handwritten Alphabets in .csv format,Other,CC0,5,519,103,2,0
+Economic calendar (EC) Forex (2011-2018),Other,ODbL,5,412,65,,0
+England Obesity Stats 2017,Other,CC0,5,323,85,,0
+LabelMe - Let's Eat! Labeled images of meals,CSV,CC4,5,869,44,,2
+KLCC Parking,Other,CC4,5,596,25,,
+ATM Transaction Data of City Union Bank,CSV,Other,5,348,56,,0
+fastText English Word Vectors,Other,CC3,5,620,29,,0
+Melbourne Housing Snapshot,CSV,CC4,5,1105,1252,65,0
+Sales Conversion Optimization,CSV,Other,5,1174,183,,
+Leads Dataset,CSV,Other,5,2388,170,,
+US Traffic Violations - Montgomery County Police,CSV,CC0,5,2925,329,9,0
+Sentiment Analysis Dataset,Other,ODbL,5,4492,603,4,0
+Kanye West Rap Verses,Other,CC0,5,3244,218,3,
+Effects of Population on Crimes,CSV,Other,5,1211,104,11,
+Arabic - Egyptian comparable Wikipedia corpus,{}JSON,CC4,5,844,72,3,
+Pima Indians Diabetes Data Set,CSV,Other,5,,,,
+Protocol Gifts,CSV,CC4,5,1803,86,7,
+Arxiv Astrophysics Collaboration Network,CSV,CC0,5,565,15,,0
+Indonesian Stoplist,CSV,Other,5,2252,147,,0
+Titanic,Other,Other,5,7862,1673,74,0
+movie_rating_data,CSV,Other,5,257,37,,0
+National Institute of the Korean Language Corpus,CSV,Other,5,906,62,,0
+Halloween Candy Analysis,Other,CC0,5,502,36,,0
+Random Acts of Pizza,{}JSON,Other,5,1883,53,3,0
+Employment (All),CSV,Other,5,1162,61,,0
+Water Conservation Supplier Compliance,CSV,CC0,5,2315,212,8,0
+IMDB Horror Movie Dataset [2012 Onwards],CSV,CC4,5,827,129,,0
+2017 March ML Mania Predictions,CSV,CC4,5,2708,393,5,
+Wars by death tolls,CSV,ODbL,5,797,47,,0
+Finishers Boston Marathon 2017,CSV,Other,5,815,104,,
+Pisa Scores,CSV,Other,5,1813,209,8,0
+#Inauguration and #WomensMarch Tweets,CSV,CC0,5,2175,195,5,0
+Raspberry Turk Project,Other,CC4,5,1864,80,,0
+Daily returns for Apple and Microsoft stock,CSV,CC0,5,996,94,,
+How do Brazilian politicians use their quota?,CSV,Other,5,585,38,,0
+Bag of Words Meets Bags of Popcorn,Other,CC0,5,1249,143,15,0
+RollerCoaster Tycoon Data,CSV,Other,5,2538,149,11,
+ESA's Mars Express Operations Dataset,Other,Other,5,869,132,,0
+The Bachelor contestants,CSV,CC0,5,1785,129,5,
+Woodbine Horse Racing Results,CSV,Other,5,1315,101,3,
+Powerball Numbers,CSV,CC0,5,1317,81,2,
+Active Volcanoes in the Philippines,CSV,Other,5,976,33,,
+"Visa Free Travel by Citizenship, 2016",CSV,Other,5,521,28,,0
+The Global Competitiveness Index dataset,Other,CC4,5,3339,267,,0
+Farmers Markets in New York City,CSV,CC0,5,2594,279,,0
+A Tribuna,Other,Other,5,1537,86,2,
+2015 Global Open Data Index,CSV,CC0,5,2200,264,8,0
+Slums and informal settlements detection,Other,ODbL,5,470,26,,
+NYC Hourly Temperature,CSV,CC0,5,532,55,,0
+Keras Models,Other,CC0,5,1498,58,4,
+Boston Housing,CSV,CC4,5,3086,335,8,0
+Mobile location history of 10/2014,{}JSON,CC0,5,1582,131,,
+Forbes Top 2000 Companies,CSV,Other,5,1290,208,,
+"Hotel Reviews from Chennai, India",CSV,Other,5,1967,223,2,
+Describing New York City Roads,CSV,CC0,5,1631,83,,
+Titanic Dataset Analysis,CSV,Other,5,1130,162,32,0
+GSMArena Phone Dataset,CSV,ODbL,5,2178,202,,
+Test Driven Data,CSV,CC0,5,1591,164,,
+"Rocket alerts in Israel made by ""Tzeva Adom""",Other,CC4,5,1340,87,,2
+Korea Horse Racing,CSV,Other,5,2038,196,,
+4chan.org/pol forum posts with keyword Trump,SQLite,CC0,5,871,24,,
+Ubudehe Livestock 1,CSV,CC0,5,685,24,2,
+Aristo MINI Corpus,Other,CC4,5,875,54,,0
+"Vehicle and Tire Recalls, 1967-Present",CSV,CC0,5,2424,250,5,0
+California Wire Tapping,Other,Other,5,1269,94,5,0
+Stanford Open Policing Project - North Carolina,Other,Other,5,735,67,,
+RxNorm Drug Name Conventions,CSV,Other,5,1146,91,,0
+International Air Traffic from and to India,CSV,CC4,5,1861,341,2,0
+Predict Outcome of Pregnancy,Other,CC4,5,1475,154,,
+Hypernymy,CSV,GPL,5,497,58,,0
+Proper-names Categories,CSV,GPL,5,528,59,,0
+INDIA and it^s numbers,CSV,CC0,5,750,69,,0
+India Crime List (2014 and 2015),CSV,CC0,5,332,54,,0
+100K Coursera's Course Reviews Dataset,{}JSON,ODbL,5,1462,82,,0
+Catalonia GDP by demand components (2000-2016),CSV,CC0,5,919,56,,0
+KNYC Metars 2016,CSV,CC0,5,1156,181,14,
+Spelling Variation on Urban Dictionary,CSV,CC4,5,1159,33,,0
+Unimorph,Other,CC4,5,769,53,,0
+Penn World Table,Other,CC4,5,1174,137,3,0
+Internal Navigation Dataset,CSV,Other,5,871,51,,0
+Congressional Election Disbursements,CSV,CC0,5,1061,135,3,
+CDC 500 Cities,CSV,ODbL,5,1606,148,,0
+Global Population Estimates,CSV,Other,5,1201,164,,0
+Author Disambiguation,{}JSON,Other,5,716,41,,0
+Library of Southern Literature,CSV,Other,5,669,69,,0
+NYC Baby Names,CSV,CC0,5,1456,265,,0
+FDA Enforcement Actions,{}JSON,CC0,5,1258,103,,0
+Federal Air Marshal Misconduct,CSV,Other,5,601,25,,0
+Orders data,CSV,Other,5,611,112,,2
+Indian Liver Patient Dataset,CSV,ODbL,5,2547,290,32,0
+Reddit r/Place History,CSV,Other,5,997,47,,0
+Publicly Supported Symbols of the Confederacy,CSV,Other,5,535,31,,0
+UFC PPV Sales,CSV,Other,5,939,105,,0
+Top Ranked English Movies Of This Decade.,CSV,CC4,5,1825,289,,0
+Real Location Retrieval from Text,Other,GPL,5,1136,84,,0
+Six Degrees of Francis Bacon,CSV,CC4,5,1458,357,4,0
+United States Trademark Applications,CSV,CC0,5,841,49,,
+Austin 311 Calls,CSV,CC0,5,957,79,3,0
+SCOTUS Opinions Corpus,Other,CC0,5,1122,66,,
+Churn in Telecom's dataset,CSV,Other,5,1689,327,,0
+YouTube Comedy Slam,CSV,CC0,5,1372,86,,0
+Indian Hotels on Cleartrip,CSV,CC0,5,1013,137,,0
+Doctor and lawyer profiles on Avvo.com,CSV,CC4,5,753,51,,0
+Commercial Paper,CSV,CC0,5,1207,86,,0
+Averaged Perceptron Tagger,Other,Other,5,935,28,,0
+UK Land Registry Transactions,CSV,Other,5,1123,101,,0
+Code of Federal Regulations,Other,CC0,5,486,51,,0
+ICLR 2017 Reviews,CSV,GPL,5,932,41,,0
+Agricultural Estimates,CSV,ODbL,5,922,114,,0
+Game of Thrones Subtitles,{}JSON,CC0,5,500,50,,0
+Crop Residue Cover Measurement,Other,CC4,5,380,39,,
+Paddy-Grass Distinguisher,Other,Other,5,41,4,,0
+One week of Betfair data: horses,CSV,Other,4,750,46,,0
+"Brooklyn Home Sales, 2003 to 2017",Other,CC0,4,146,15,,0
+Diabetes by Demographies,CSV,Other,4,505,72,,0
+Quotables,Other,CC0,4,328,26,,0
+Google Product Taxonomy,Other,Other,4,1800,162,,0
+SeedLing,Other,Other,4,538,33,,0
+Microdados Censo Escolar 2015,CSV,ODbL,4,569,49,,0
+EEG-Alcohol,Other,Other,4,2383,170,2,0
+Natural Stories Corpus,CSV,CC4,4,803,67,,0
+Austin Waste and Diversion,CSV,CC0,4,1038,89,2,0
+Virtual Reality Driving Simulator Dataset,CSV,Other,4,1267,73,,0
+Life Expectancy (WHO),CSV,Other,4,280,70,,0
+GrammyAwardsInNumbers,{}JSON,CC0,4,484,48,,0
+Air pressure system failures in Scania trucks,CSV,GPL,4,358,28,,
+TIMIT-corpus,Other,CC4,4,1365,70,,0
+Lung Nodule Malignancy,Other,Other,4,1011,114,3,
+FAA Laser Incident Reports,CSV,CC0,4,738,64,2,0
+LCS 2017 Summer Split Fantasy Player & Team Stats,CSV,CC0,4,745,48,3,0
+Fantasy Premier League - 2017/18,CSV,CC4,4,2313,266,,
+Factorial Digit Frequencies,CSV,CC0,4,715,44,,0
+European Soccer Dataset : La Liga,CSV,GPL,4,537,78,,0
+The Buildings of South East England,Other,CC0,4,605,25,,0
+Fortune 500 Companies of 2017 in US [Latest],CSV,Other,4,465,86,,0
+Oreo Flavors Taste-Test Ratings,CSV,CC4,4,620,45,,0
+SF Beaches Water Quality,CSV,CC0,4,1165,92,3,0
+Deadly traffic accidents in the UK (2015),CSV,Other,4,1266,119,2,0
+Barcelona Unemployment,CSV,CC4,4,975,79,,0
+Istanbul Stock Exchange,CSV,CC0,4,1718,108,2,0
+Hospital Payment and Value of Care,CSV,CC0,4,705,64,,0
+USDA PLANTS Checklist,CSV,CC0,4,986,57,,0
+Properties on StayZilla,CSV,CC4,4,1107,103,,0
+WWI Bombing Operations,CSV,CC0,4,973,97,,0
+Stanford Open Policing Project - Illinois,Other,Other,4,612,56,3,0
+New York City - 2013 Campaign Contributions,CSV,CC0,4,580,35,,
+Swiss Coins,Other,CC0,4,957,98,4,0
+Intermediate point data (Taxi trip duration),CSV,ODbL,4,879,43,,
+Loans data,CSV,Other,4,954,109,,2
+"Water Levels in Venezia, Italia",Other,CC0,4,1363,85,,
+Colbert 1k,CSV,Other,4,1782,41,,2
+Indian Premier League(IPL)Data(till 2016),CSV,ODbL,4,376,188,,
+Rare diseases - Sentiment analysis,CSV,CC0,4,1554,119,,
+Technical Indicator Backtest,CSV,CC0,4,1460,87,8,0
+Jester Collaborative Filtering Dataset,CSV,CC4,4,1674,144,,
+Bike Share Daily Data,CSV,Other,4,1063,143,,2
+Tel-Aviv Sublets Posts on Facebook,CSV,CC0,4,851,52,,
+Air-Quality,CSV,Other,4,1014,100,,
+Top 1000 Golf Players Historical,CSV,Other,4,1308,124,,
+Pokemon (Gen 7),Other,Other,4,628,23,,0
+Rdatasets,CSV,Other,4,1548,101,,0
+Clap Emoji in Tweets,CSV,CC0,4,1035,47,2,0
+Atlas of Pidgin and Creole Language Structures,CSV,Other,4,704,41,,0
+New York City Taxi Trip - Hourly Weather Data,CSV,CC0,4,1030,140,4,
+Corporate Prosecution Registry,CSV,Other,4,852,72,,0
+Stanford Open Policing Project - Ohio,Other,Other,4,749,71,,0
+"Cook County Asset Forfeiture (Chicago, IL)",CSV,CC0,4,446,19,,0
+QBI Image Segmentation,Other,CC0,4,1359,79,5,
+Swiss Rail Plan,CSV,Other,4,1529,85,3,
+CoMNIST,Other,CC4,4,2246,165,,
+Ultimate 25k+ Matches Football Database -European,SQLite,ODbL,4,3662,205,2,2
+Red Wine Dataset,Other,ODbL,4,10619,740,11,
+NYC Uber Pickups with Weather and Holidays,CSV,CC0,4,1947,189,,0
+Welfare Error Rates,CSV,Other,4,1666,88,,
+"100,000 Random Internet Domain Names",CSV,CC0,4,595,37,,0
+Spanish Region and Election Results,CSV,Other,4,1345,41,,
+A Recruiter Year in Review!,CSV,CC4,4,2038,140,,
+Interactive Fiction Competition Entrants,CSV,CC4,4,1834,30,,
+Breast Cancer Wisconsin (Prognostic) Data Set,CSV,ODbL,4,2861,284,3,
+Annotated Corpus for Named Entity Recognition,Other,Other,4,1386,177,,
+INDUSTRIAL INTERNET OF THINGS DATA,CSV,CC0,4,2526,185,,
+NASCAR Champion History (1949-Present),CSV,CC0,4,1118,55,,
+Global Social Survey Programs: 1948-2014,CSV,Other,4,1562,114,3,0
+US campsites,CSV,CC0,4,1420,159,14,0
+Depth Generation - Lightfield Imaging,Other,CC4,4,800,48,2,0
+"Disputed Territories and Wars, 1816-2001",CSV,Other,4,1109,103,,0
+LA Vacant Building Complaints,CSV,Other,4,887,60,3,0
+US College Sailing Results,Other,CC0,4,1148,111,9,0
+A Million Pseudo-Random Digits,CSV,CC0,4,668,24,,0
+Evan's Fruit Dataset,Other,CC0,4,5141,702,,
+Paintings,CSV,CC0,4,1971,168,2,0
+Wind Farms,CSV,Other,4,1958,106,4,0
+Social Network Fake Account Dataset,Other,CC4,4,5356,391,,
+311 service requests NYC,CSV,ODbL,4,1582,108,4,0
+Near Earth Asteroids,CSV,Other,4,1482,77,,
+Turkish sentences for word2vec training,Other,CC0,4,2464,83,4,0
+Wind Predictions,CSV,Other,4,1529,114,2,
+Mammographic Mass Data Set,CSV,CC4,4,2898,172,11,0
+Predicting Movie Revenue,Other,ODbL,4,3048,588,3,
+DataCampTraining(Titanic),CSV,Other,4,1340,102,7,0
+Coursera Data Science Capstone Datasets,CSV,ODbL,4,2726,85,,
+Facial keypoints,CSV,Other,4,1261,157,8,0
+Dictionary for Sentiment Analysis,CSV,Other,4,2561,228,4,0
+Betfair.com Market Analysis,CSV,Other,4,1678,45,,0
+Second-level domains list/zone file,CSV,CC0,4,1207,37,4,0
+Finding Bubbles in Foam,CSV,CC4,4,2117,27,5,
+Job Classification Dataset,CSV,CC0,4,4150,416,2,0
+Hessen House Prices Dataset,{}JSON,CC0,4,725,79,3,0
+Intel Xeon Scalable Processors,CSV,CC0,4,576,28,,0
+Shanghai license plate bidding price prediction,CSV,Other,4,402,65,2,0
+500 Cities: Local Data for Better Health,CSV,ODbL,4,264,25,,0
+First Voyage of Christopher Columbus,CSV,CC0,4,1971,43,3,
+National Basketball Association(NBA) Dataset,CSV,CC0,4,1212,142,,0
+Reviews with conditions,CSV,GPL,4,749,51,,0
+World Countries and Continents Details,CSV,CC4,4,1041,147,5,0
+UCI Daily and Sports Activities,Other,CC0,4,154,2,,0
+Brazillian Stock Quotes,Other,CC0,4,630,47,2,
+FCC Net Neutrality Comments Clustered,CSV,CC0,4,655,29,,0
+Clash royale Dataset,CSV,CC0,4,397,52,,0
+Urdu Stopwords List,Other,Other,4,187,26,,0
+Santa Challenge,CSV,CC4,4,448,49,,0
+Deaths related to the Northern Ireland conflict,Other,CC0,4,708,60,,0
+breast cancer,CSV,Other,4,1902,268,5,0
+Word Occurrences in Mr. Robot,CSV,CC0,4,181,2,,0
+Heart.csv,CSV,Other,4,553,117,,0
+US-based job data set from 300+ companies,CSV,CC4,4,248,35,90,0
+AAU VAP Trimodal People Segmentation Dataset,Other,CC4,4,361,22,,
+Hot Dog - Not Hot Dog,Other,Other,4,342,51,14,0
+Swedish NER corpus,Other,CC4,4,372,13,,0
+Malicious and Benign Websites,CSV,Other,4,566,84,,
+intrusion detection,CSV,Other,4,218,64,,0
+Sign Language Digits Dataset,Other,CC4,4,244,31,2,0
+Lots of code,Other,CC4,4,1023,24,,0
+Unicode 10.0 Character Database in JSON,{}JSON,Other,4,395,25,,0
+MRI Brain Image,Other,CC0,4,138,29,,0
+Global suicide data,CSV,CC0,4,438,86,,0
+Spoken Verbs,Other,CC4,4,439,18,,
+submission38 LB-0.1448,CSV,CC0,4,795,552,4,0
+Advertising,CSV,Other,4,578,105,2,0
+Expat Insider 2017,CSV,Other,4,109,15,,0
+58 years of Temperature Data,CSV,Other,4,178,17,,
+Bagrut grades in Israeli high schools (2013-2016),CSV,Other,4,603,47,,
+Bollywood Movie Dataset,CSV,CC0,4,934,63,,
+DenseNet-169,Other,CC0,4,276,3,,0
+ResNet-18,Other,CC0,4,859,13,,0
+VGG-16,Other,CC0,4,255,4,,0
+VGG-13 with batch normalization,Other,CC0,4,157,,,0
+UFC Fight Data Refactored,CSV,CC0,4,192,32,,0
+Cars Data,CSV,Other,4,213,24,,0
+Rome B&Bs reviews,CSV,CC4,4,721,29,2,0
+20k Tweets Relating to #JerusalemEmbassy,CSV,CC0,3,129,8,,
+People and Character Wikipedia Page Content,CSV,CC3,3,154,12,,0
+MLB Home Run Exit Velocity: 2015 vs. 2017,CSV,Other,3,171,21,,0
+Pretrain file,Other,ODbL,3,47,0,,0
+Football Players,Other,Other,3,210,57,,0
+Pokemon Images Dataset,Other,CC0,3,377,54,,
+Random Shopping cart,CSV,CC0,3,416,66,2,0
+Top 10 Cryptocurrencies,Other,CC0,3,249,34,,0
+IMDB movie rating,CSV,CC0,3,264,40,,0
+US-based Jobs from Dice.com,CSV,CC4,3,386,25,,0
+InceptionResNetV2,Other,CC0,3,383,19,,0
+Xception,Other,CC0,3,599,21,2,0
+DenseNet-121,Other,CC0,3,359,,,0
+DenseNet-161,Other,CC0,3,206,2,,0
+SqueezeNet 1.0,Other,CC0,3,242,2,,0
+VGG-16 with batch normalization,Other,CC0,3,557,7,,0
+VGG-19 with batch normalization,Other,CC0,3,234,2,,0
+BBVA data challenge,CSV,CC0,3,349,37,,0
+H1B Data Set 2017,Other,Other,3,227,29,,0
+glove.6B.50d.txt,Other,CC0,3,456,125,,0
+My Clash Royale Ladder Battles,CSV,CC4,3,465,23,2,0
+NLP-Word2Vec-Embeddings(pretrained),Other,CC0,3,74,,,0
+BikeShare Analysis,CSV,Other,3,381,42,,0
+Medical Appointment,CSV,GPL,3,224,17,,
+Indonesian Licence Plate,Other,GPL,3,186,15,,0
+Character Encoding Examples,Other,CC0,3,480,21,2,0
+Spoken Wikipedia Corpus (Dutch),Other,CC4,3,429,29,,0
+Beijing PM2.5 concentration,CSV,Other,3,109,19,,0
+survey mental health 2016,CSV,Other,3,141,26,,0
+PGA Tour 2016/2017 Leaderboards,Other,Other,3,182,47,,0
+Consolidated UFO and Weather Data,CSV,CC0,3,92,10,,
+Chest X-Rays Dataset,Other,CC0,3,174,28,,0
+TripAdvisor Reviews for The Eiffel Tower,CSV,CC4,3,125,4,,0
+Articles extracted from a fashion blog,{}JSON,CC4,3,73,5,,0
+VGG-13,Other,CC0,3,192,,,0
+VGG-19,Other,CC0,3,178,,,0
+All Podcast Episodes Published In December 2017,CSV,CC4,3,1066,6,,0
+Unofficial Holidays,CSV,Other,3,585,54,,0
+FCC Net Neutrality Comments,CSV,CC0,3,173,5,,0
+Captcha Images,Other,CC0,3,536,75,,0
+Dataset of customer purchase,CSV,Other,3,295,50,,0
+Safebooru,CSV,CC0,3,126,2,,0
+Complete Kaggle Datasets Collection,CSV,ODbL,3,718,46,,0
+California Housing Prices,CSV,CC0,3,1271,250,9,0
+Apartment data,CSV,Other,3,412,55,2,0
+OSHA Accident and Injury Data,CSV,Other,3,99,10,,0
+USDA plant database,Other,CC0,3,388,45,,0
+Hotel Reviews,CSV,CC0,3,713,102,,0
+Electric Power Consumption,Other,CC0,3,116,10,,0
+german_credit_data_with_risk,CSV,CC0,3,156,74,,0
+World Energy Consumption Historical Data,CSV,CC0,3,65,3,,0
+Lead legs on chipset,Other,CC4,3,441,31,,2
+Cricinfo Statsguru Data,CSV,CC0,3,841,107,,0
+Daily Crypto Currency and Lunar Geocentric Data,CSV,Other,3,125,12,,0
+Election News Headlines,CSV,CC0,3,471,14,,
+Call Tests Measurements for MOS prediction,Other,Other,3,120,7,2,0
+Chemical Substance Registry (CAS registry numbers),CSV,CC0,3,824,28,,0
+Bitcoin Vericoin dataset (Poloniex + Mosquito),CSV,CC0,3,287,50,,0
+pima-indians-diabetes.data,CSV,ODbL,3,877,137,5,
+Python-scripts,Other,Other,3,320,12,,0
+Blue Plaques,CSV,CC0,3,508,68,,0
+IBM HR,CSV,Other,3,778,127,,0
+California DDS Expenditures,CSV,CC0,3,832,41,,0
+Users mobile banking transaction frequency,CSV,Other,3,654,146,,0
+MOOC Dataset,CSV,CC0,3,377,42,,
+The UMass Global English on Twitter Dataset,Other,Other,3,290,30,,0
+Pokemon,CSV,Other,3,379,36,,0
+Math Students,CSV,CC0,3,1362,220,,
+CAUSES OF DEATH IN THE WORLD 2014,CSV,CC0,3,168,16,,0
+Nineteenth Century Works On Nepal,Other,CC0,3,297,12,,0
+Stock Data,CSV,CC0,3,401,164,,0
+Word Occurrences in Movies,CSV,CC0,3,259,5,,0
+Amazon Echo Dot 2 Reviews Dataset,CSV,CC4,3,594,15,,0
+NIPS17 Adversarial learning - 3rd round results,CSV,Other,3,1207,221,5,
+Google news articles tagged under hate crimes,CSV,CC4,3,166,13,,0
+Frightgeist 2017: Costumes by State,CSV,CC4,3,83,4,,0
+Safecast Radiation Measurements,CSV,CC0,3,754,69,,0
+Australian Domestic Airline Traffic,CSV,Other,3,1505,137,6,0
+Global Peace Index 2016,CSV,CC4,3,2343,113,3,0
+Selfies with Sunglasses,Other,CC0,3,2288,135,,
+2012 Election- Obama vs Romney,CSV,Other,3,1660,90,3,
+TV Sales Forecasting,CSV,ODbL,3,2938,291,9,
+Anna University results May-June 2016,{}JSON,CC0,3,1222,79,3,0
+Buenos Aires public WiFi access points,Other,Other,3,1164,52,,0
+Montreal Street Parking,Other,CC0,3,1602,52,5,0
+Text for different industries,Other,Other,3,1507,112,2,
+Crashes 2014,Other,Other,3,1052,89,,
+Donald Trump Tweets,Other,CC0,3,2996,257,2,
+NYC Open Data Metadata,{}JSON,CC4,3,1664,44,,
+HSI-Futures,CSV,CC4,3,1663,44,2,
+Banco Imobiliário,CSV,Other,3,483,25,,0
+Dataset for collaborative filters,CSV,CC4,3,2426,109,,
+MLB dataset 1870s-2016,CSV,Other,3,3413,282,6,
+Medical Data,CSV,Other,3,911,115,,
+Handwritten Names,CSV,CC0,3,2837,155,2,
+ERA-Interim 2m temperature anomalies,CSV,Other,3,1889,36,5,
+Open Pubs,CSV,Other,3,1135,29,,0
+Street Network Segmentation,Other,Other,3,522,22,3,0
+The files on your computer,SQLite,Other,3,1096,32,7,0
+Pennsylvania Safe Schools Report,CSV,CC0,3,1758,136,4,0
+School Exam,CSV,Other,3,614,44,,0
+Administrative divisions of Moscow,Other,Other,3,2174,572,8,0
+r programming code,Other,CC0,3,735,43,,0
+Obama Visitor Logs,CSV,CC0,3,1532,158,2,0
+Sample of Car Data,CSV,ODbL,3,2282,237,14,0
+Formula 1 points data. 2000-2016,CSV,ODbL,3,486,128,,0
+Speed Dating Experiment,Other,Other,3,1382,187,,
+Ultimate Beastmaster: First Season,CSV,ODbL,3,2419,63,2,0
+ISP Contributions to Congress,CSV,CC0,3,397,17,3,0
+Average Fuel Consumption,CSV,CC0,3,605,48,,0
+PSL data,Other,ODbL,3,484,36,,
+Pre-processed Twitter tweets,CSV,CC0,3,1208,213,,
+IMDB Data,CSV,Other,3,1853,305,6,2
+Three years of my search history,CSV,Other,3,464,17,,0
+Basic Computer Data,CSV,Other,3,2696,266,7,0
+Academic Research from Indian Universities,CSV,CC0,3,3499,211,2,0
+Random Shopping cart,CSV,Other,3,992,148,2,
+People Walking with No Occlusion,Other,Other,3,1025,30,,2
+"Results from Running Events in Porto, Portugal",CSV,CC4,3,954,44,3,2
+Spam filter,CSV,Other,3,929,148,2,0
+NYC Rejected Vanity Plates,CSV,Other,3,1114,69,,0
+American Presidency Project,{}JSON,Other,3,2890,150,,0
+First Quora Dataset Release: Question Pairs,CSV,ODbL,3,3307,148,13,0
+O'Reilly Strata London 2017 Talks and Ratings,CSV,Other,3,392,5,,0
+Ski Resorts - Daily Snowfall,CSV,Other,3,465,53,2,
+Iris datasets,CSV,Other,3,2381,361,33,0
+Executive Orders,CSV,Other,3,1908,121,5,0
+Straits Times index Data,CSV,ODbL,3,503,44,3,
+TOP 1000 City Betwen Distance Lookup,CSV,ODbL,3,340,20,,0
+Movie lens,Other,CC0,3,556,56,,0
+Canadian Car Accidents 1994-2014,Other,ODbL,3,1124,251,,
+Nutrition,Other,ODbL,3,944,176,,0
+Trump Financial Disclosure 2016,CSV,Other,3,952,62,,0
+Pharmaceutical Tablets Dataset,Other,ODbL,3,910,127,,
+FAspell,CSV,Other,3,540,18,,0
+Cuss words and Deaths in Quentin Tarantino Films,CSV,Other,3,984,69,2,0
+Stanford Open Policing Project - South Carolina,Other,Other,3,674,42,,
+Email Status Tracking,CSV,CC0,3,539,57,,
+Vehicles - Nepal,Other,ODbL,3,638,46,,
+New York City Bike Share Dataset,CSV,CC4,3,556,46,,0
+Sales of Shampoo Over a Three Year Period,CSV,ODbL,3,747,106,,0
+Executed Inmates 1982 - 2017,CSV,CC0,3,192,20,,0
+North Carolina Schools: Report Cards and Metadata,CSV,CC0,3,1661,116,2,
+Oil price and share price of a few companies,CSV,CC4,3,927,158,,3
+New York Traffic Accidents 2016,CSV,ODbL,3,762,109,,
+2011 - 2013 NYC Traffic Volume Counts,CSV,Other,3,1039,124,,2
+California Housing Prices,CSV,Other,3,619,89,,0
+Stock Market Data,CSV,Other,3,1768,202,2,
+Beginner Projects - Ergonomic Study on Chopsticks,CSV,Other,3,1390,100,5,2
+Countries ISO Codes,CSV,CC0,3,303,42,4,0
+Mercedes Benz Us car sales data 06/May - 09/March,CSV,CC0,3,1013,115,2,0
+Exchange rate BRIC currencies/US dollar,CSV,Other,3,368,41,2,0
+housing,CSV,CC0,3,1421,181,,0
+PDD Graph,Other,Other,3,876,25,,
+Iris Dataset,CSV,Other,3,494,70,4,0
+Connecticut inmates awaiting trial,CSV,CC0,3,592,34,,
+The Correlates of State Policy Project,Other,CC0,3,598,76,,
+Southern Ocean Microbial Concentrations,CSV,Other,3,259,11,,0
+Tools Testing and Community Prototyping,SQLite,Other,3,308,36,4,0
+supply chain data,CSV,ODbL,3,1518,186,,
+India 🇮🇳 - Habitation Info (6.65m observations),Other,CC4,3,268,33,,0
+Football Delphi,SQLite,CC0,3,1688,149,3,0
+Baton Rouge Crime Incidents,CSV,CC0,3,760,95,,0
+HCC dataset,Other,CC4,3,1003,96,,0
+Energy Efficiency Dataset,CSV,CC0,3,532,35,,0
+Delpher Dutch Newspaper Archive (1618-1699),Other,Other,3,738,29,,0
+Obama White House Budgets,CSV,CC0,3,822,82,,0
+Shanghai stock composite index,CSV,CC0,3,241,33,,0
+Rosary Prayers in Latin,CSV,CC0,3,435,17,,0
+Independent Election Expenditures,CSV,CC0,3,519,36,,0
+Korean War Bombing Runs,CSV,CC0,3,885,74,,0
+NIPS17 Adversarial learning - 2nd round results,CSV,Other,3,700,167,2,0
+North American Slave Narratives,CSV,Other,3,763,49,,0
+The Church in the Southern Black Community,CSV,Other,3,422,33,,0
+New York City - Certificates of Occupancy,CSV,CC0,3,570,52,,0
+Indirect Food Additives,CSV,CC0,3,1535,109,,0
+Industrial Security Clearance Adjurations,CSV,CC0,3,592,66,,0
+One week of Betfair data: 23 sports,CSV,Other,3,603,53,,0
+Fertility Rate By Race,CSV,Other,3,395,29,,0
+Daikon (Diachronic Corpus),{}JSON,CC0,3,547,22,,0
+Crowdfunding Data (Reg CF),Other,CC0,3,574,70,,0
+Wikipedia Edits,CSV,ODbL,3,699,61,,0
+Automatic generation of Guard roles,CSV,ODbL,3,446,18,2,0
+Top 100 Global Steel Producers (2011-2016),CSV,CC0,3,930,103,,0
+US Tariff Rates,Other,CC0,3,931,77,,
+Geographically Annotated Civil War Corpus,{}JSON,Other,3,616,38,,0
+Kwici Welsh Wikipedia Corpus,CSV,CC4,3,479,24,,0
+Trial and Terror,CSV,CC4,3,929,65,,0
+Mapping the KKK 1921-1940,CSV,CC4,3,580,35,,0
+WMT15 Evaluation,Other,Other,3,557,16,,0
+Perluniprops,Other,Other,3,308,9,,0
+CONLL Corpora,Other,Other,3,643,81,,0
+Genesis,Other,Other,3,158,5,,0
+Twitter Sample,Other,Other,3,847,132,,0
+Web Text Corpus,Other,Other,3,579,40,,0
+Penn Tree Bank,Other,Other,3,1604,115,,0
+Reuters,Other,Other,3,460,33,,0
+GloVe: Global Vectors for Word Representation,Other,CC0,3,100,21,,0
+Asbestos Clean-up in Poland,CSV,CC0,3,232,27,,0
+Grand Theft Auto 2017 Sao Paulo,CSV,CC0,3,51,,,0
+Crimes in Boston,CSV,CC0,3,103,7,,0
+Valid US Addresses by Zip Code,{}JSON,CC0,3,781,22,,
+Unicode Samples,Other,Other,3,169,7,,0
+Unix Words,Other,Other,3,164,14,,0
+WNCAATouneyChampions,CSV,GPL,2,29,5,,0
+USArrests,CSV,CC0,2,80,16,,0
+Hawkeye Tennis Matches,CSV,CC4,2,44,2,,0
+Advanced Pandas Exercises,Other,CC0,2,49,4,,0
+OSM Russia. Central District,Other,ODbL,2,42,0,,0
+Philippine Stock Exchange Data,CSV,CC4,2,215,5,,
+Panic! at the Dataset,{}JSON,CC0,2,566,6,,0
+700 Kumar Sangakkara Face Annotations,Other,ODbL,2,64,,,0
+French Tragedies,Other,CC4,2,237,50,,0
+test.json,{}JSON,CC0,2,35,,,0
+Data Breaches 2004-2017 (EN),CSV,CC4,2,88,9,,0
+Statlog (German Credit Data) Data Set,CSV,ODbL,2,116,21,,0
+Indoor Temp Over an Oven and Cooktop,CSV,CC0,2,112,3,2,
+School Shootings US 1990-present,Other,CC0,2,153,30,,0
+Austin Animal Center Shelter Outcomes,CSV,ODbL,2,118,5,,0
+Movement coordination in trawling bats,CSV,CC0,2,529,25,,0
+Finance ₹ - India,CSV,CC4,2,704,251,,0
+Ebay Motorcycle Prices,Other,CC0,2,463,76,,0
+UCDP Georeferenced Event Dataset,CSV,CC0,2,536,37,,0
+Sentiment Labelled Sentences Data Set,Other,ODbL,2,1280,139,,0
+OECD macroeconomic data,CSV,ODbL,2,342,60,2,
+Eurfa Welsh Dictionary,CSV,GPL,2,384,27,,0
+WNBA Player stats Season 2016-2017,CSV,Other,2,1036,144,2,0
+World Countrywise Population Data 1980 - 2010,CSV,Other,2,340,29,,0
+notMNIST dataset,Other,Other,2,836,75,,0
+WEATHER ANALYSIS,CSV,CC0,2,643,81,,0
+Wikidata Property Ranking,CSV,CC4,2,402,14,,0
+Europarl annotated for speaker gender and age,Other,Other,2,289,18,,0
+Global Terrorism Database_compact version,CSV,Other,2,72,7,,0
+UDHR Corpus,Other,Other,2,163,7,,0
+VerbNet,Other,Other,2,402,11,,0
+Universal Treebank,Other,Other,2,209,11,,0
+WordNet,Other,Other,2,259,20,,0
+Subtitles of The Eleventh House podcast,CSV,Other,2,518,26,,0
+New York Taxi Trip enriched by Mathematica,CSV,CC0,2,250,16,,0
+Reviews - TripAdvisor (hotels) & Edmunds (cars),Other,CC0,2,359,45,,0
+"13,000 Screen Capture Images + How to Get More",Other,Other,2,411,28,,0
+Spam Text Message Classification,CSV,CC0,2,1033,112,8,
+Universal Tagset,Other,Other,2,347,15,,0
+MaxEnt Treebank POS Tagger,Other,Other,2,498,15,,0
+Vader Lexicon,Other,Other,2,1392,59,,0
+BLLIP Parser Model,Other,Other,2,394,8,,0
+Moses Sample,Other,Other,2,532,12,,0
+MaxEnt NE Chunker,Other,Other,2,587,14,,0
+Gutenberg,Other,Other,2,293,11,,0
+NPS Chat,Other,Other,2,575,68,,0
+Paradigm,Other,Other,2,194,7,,0
+Product Reviews,Other,Other,2,445,65,,0
+Shakespeare,Other,Other,2,235,22,,0
+Stopwords,Other,Other,2,247,14,,0
+Toolbox Sample,Other,Other,2,161,7,,0
+Movie Reviews,Other,Other,2,1312,157,3,0
+Brown Corpus,Other,Other,2,341,26,,0
+Similar Sentences Clustered Data,{}JSON,CC4,2,558,43,,0
+European Soccer Database Supplementary,CSV,ODbL,2,849,107,,0
+Tailpipe Emissions for sedan vehicle,Other,Other,2,315,17,,
+Kannada Word Set,Other,Other,2,150,17,,
+FAA laser with days of week,CSV,CC0,2,127,6,,0
+State of the Nation Corpus (1990 - 2018),Other,ODbL,2,666,32,,0
+Ecoli Data Set,CSV,CC0,2,490,44,,0
+Forest Fires Data Set,CSV,Other,2,2088,124,2,0
+Argentina's Private Neighborhoods,CSV,CC0,2,202,3,,0
+Estimated speed using fastest route,CSV,CC0,2,146,10,,0
+Copy of wikipedia-language-iso639,CSV,CC0,2,143,8,3,0
+Mannanafnaskrá,CSV,CC0,2,478,9,,0
+NY State Lotto Winning Numbers,CSV,CC0,2,1118,78,,0
+emotion recognition,CSV,CC0,2,1288,196,,0
+Car Emissions data,CSV,ODbL,2,551,73,,
+Area and Geography,Other,CC0,2,227,18,,0
+"Armors, Exoskeletons & Mecchas",CSV,Other,2,960,117,,
+Tutorial,CSV,CC0,2,633,7,,0
+NYC City Hall Library Catalog,CSV,CC0,2,505,30,,0
+Cocktail Ingredients,CSV,CC0,2,557,61,5,
+Telangana Hospitals,CSV,CC0,2,340,21,,
+NYC hourly car accidents 2013-2016,CSV,Other,2,485,69,,0
+NYC boroughs shapes,{}JSON,Other,2,85,6,,0
+Realtime GTFS,Other,Other,2,277,23,,0
+US state county name & codes,CSV,Other,2,328,30,,0
+1000 Genome Data for Complete Beginners,CSV,CC0,2,713,45,,
+Film Locations in San Francisco,CSV,CC0,2,987,62,2,
+NYC Weather,CSV,Other,2,489,44,,0
+Titanic,CSV,ODbL,2,1157,193,6,0
+Social Network Ads,CSV,Other,2,769,107,,0
+FacialSemanticAnalysis.csv,CSV,Other,2,656,100,,
+U.S. College Scorecard Data 1996-2015,Other,CC0,2,1478,185,,0
+Stopword Lists for African Languages,CSV,Other,2,721,103,,0
+"ACLED Asian Conflicts, 2015-2017",CSV,CC0,2,564,35,,
+Music notes,Other,CC0,2,1036,89,,
+NIPS17 Adversarial learning - 1st round results,CSV,Other,2,755,139,,0
+OpenAddresses - North America (excluding U.S.),CSV,Other,2,239,37,,0
+OpenAddresses - South America,CSV,Other,2,294,60,,0
+Retail Sales Forecasting,CSV,CC4,2,2081,217,,0
+First Person Narratives of the American South,CSV,Other,2,573,54,,0
+Satellite Imagery,Other,ODbL,2,622,42,,0
+Total Expenditure on Health per Capita,CSV,ODbL,2,840,49,,
+Amazon baby dataset,CSV,Other,2,1892,142,,
+US Casualties of the Korean War,CSV,Other,2,1483,128,,0
+US Representation by Zip Code,{}JSON,Other,2,939,22,,
+perishable products Colombian markets,CSV,Other,2,708,57,,
+Classifying wine varieties,CSV,Other,2,1875,100,4,0
+Wiki Words,CSV,Other,2,1497,89,2,
+Chicago Crime Data,CSV,Other,2,1616,137,,
+British Queen's Oversea Visits,CSV,ODbL,2,565,49,,0
+Human Instructions - Chinese (wikiHow),Other,CC4,2,433,37,,0
+Vectorized Handwritten Digits,CSV,CC0,2,842,37,8,
+MNIST data,Other,CC0,2,1373,178,24,0
+Brazil Gdp & Electricity Consumption,CSV,CC0,2,826,64,3,0
+Renewable Energy Generated in the UK,CSV,Other,2,907,59,4,
+"São Paulo, Brazil - Railroad stations Map",CSV,CC0,2,171,18,,0
+Indie Map,{}JSON,CC0,2,350,7,,
+Car brands (1970 to 2016),CSV,Other,2,475,52,,0
+Food preference,Other,ODbL,2,1154,227,,0
+Presidential Cabinet Nominations,CSV,CC0,2,824,60,,0
+QBI Image Enhancement,Other,CC0,2,879,50,10,0
+US Presidents heights: How low can u go?,CSV,Other,2,747,71,3,0
+Tsunamis History,Other,Other,2,873,72,,
+Open Data 500 Companies,CSV,Other,2,751,52,,
+Crashes 2014 csv,CSV,Other,2,565,59,,0
+Site clicks (hits) database,CSV,Other,2,504,24,,0
+Ice core DML94C07_38,Other,CC4,2,462,13,,0
+Sample Insurance Portfolio,CSV,Other,2,2622,405,4,
+Real Estate,Other,Other,2,1581,178,,2
+Foursquare Tips,CSV,Other,2,1054,35,,
+Word in French,CSV,CC4,2,610,37,,0
+USD Vs INR in past 10 year,CSV,Other,2,289,23,,0
+Admob data set,CSV,CC0,2,288,11,,0
+Council Plan performance indicators,CSV,CC0,2,613,19,,0
+Scheduling in Cloud computing,Other,CC0,2,700,88,,
+DolarToday & SIMADI Scrap,Other,CC0,2,330,11,,0
+Jewish Baby Names,CSV,Other,2,263,22,,0
+Mines vs Rocks,CSV,Other,2,756,110,5,0
+Money Supply M2 BRIC economies,CSV,Other,2,271,21,,
+Mercedes Benz car sales data,CSV,CC0,2,1323,151,,0
+The UN Refugee Agency Speeches,CSV,CC0,2,1270,74,3,
+"Precipitation in Syracuse, NY",CSV,CC0,2,647,34,2,0
+US Flight Delay,CSV,Other,2,1307,163,,0
+The Best Recommender Engine : MovieLens,Other,CC0,2,4541,177,,0
+"Donald J. Trump For President, Inc",CSV,Other,2,1344,76,6,
+mnist for tf,Other,ODbL,2,506,32,19,0
+Open Postcode Geo,CSV,Other,2,592,33,,0
+Tesla Stock Price,CSV,ODbL,2,1082,105,,0
+Trump's Taiwan Call,Other,ODbL,2,747,25,,0
+Crime Classification dataset,CSV,Other,2,1683,139,2,0
+Osu! Standard Rankings,CSV,Other,2,615,29,3,0
+Contributions to Presidential Campaigns (real),CSV,Other,2,1041,28,2,0
+2015 Canadian General Election results,CSV,Other,2,1259,34,,3
+Terrorism Attack in the World (1970-2015),CSV,CC0,2,463,40,6,0
+NBA player info,CSV,Other,2,584,54,,0
+VR games list,CSV,CC0,2,823,41,4,
+Air Passengers,CSV,ODbL,2,3007,410,4,0
+A Visual and Intuitive Train-Test Pattern,Other,CC0,2,1003,35,8,
+NSE India stocks (companies),CSV,CC0,2,875,153,,0
+Philadelphia Real Estate,CSV,Other,2,882,106,,
+Output for 20 kernels porto seguro,CSV,CC0,2,111,734,,0
+College Football/Basketball/Baseball Rankings,Other,Other,2,3000,173,3,
+Student Intervension,CSV,Other,2,2236,248,2,
+Dilma impeachment Twitter Raw Data,CSV,ODbL,2,1073,35,3,
+Cousin Marriage Data,CSV,Other,2,1441,77,,0
+Brazil's House of Deputy Refunds,CSV,CC0,2,160,21,,
+Data Scientists vs Size of Datasets,CSV,Other,2,1786,37,2,0
+DVLA Driving Licence Dataset,Other,ODbL,2,2728,148,,
+House Sales in Ontario,CSV,CC0,2,2736,222,7,
+Number of trains on the sections of the network,CSV,Other,2,1206,43,,
+Breathing Data from a Chest Belt,CSV,CC0,2,1294,63,,
+water pump,CSV,CC0,2,2276,74,5,
+Nürburgring Top 100,CSV,CC0,2,1820,38,2,0
+Data for public services on Brazil,CSV,Other,2,913,42,,
+finance study,Other,CC4,2,580,48,,0
+Bitcoin historical price,CSV,CC0,2,335,33,,0
+FoodClassification,{}JSON,CC0,2,234,17,,0
+State wise tree cover India,CSV,ODbL,2,1277,78,5,
+Natural Rate of Unemployment (Long-Term),CSV,Other,2,989,47,,0
+NYCHA Staten Island Asbestos Siebel Data,CSV,CC0,2,1574,35,,
+Employee Attrition,CSV,CC0,2,429,66,,0
+Data from OBD (On Board Diagnostics),CSV,CC0,2,221,32,,
+Mann Ki Baat Speech corpus,CSV,CC0,2,246,16,,0
+Framingham Heart study dataset,CSV,CC0,2,312,68,,0
+Spotify Artists,CSV,CC4,2,485,52,,0
+creditcard,CSV,CC0,2,244,71,,0
+Car sales,CSV,CC0,2,494,95,3,0
+Grocery,CSV,Other,2,365,33,,0
+Investment growth forcast,CSV,CC0,2,356,42,,0
+psychology,CSV,CC0,2,310,16,,0
+kc_house,CSV,Other,2,228,17,,0
+Wisconsin Breast Cancer Database,CSV,CC0,2,631,134,,0
+Viewing Solar Flares,CSV,CC4,2,1097,41,,0
+restaurant and consumer data,CSV,CC0,2,197,37,,0
+Titanic,CSV,CC0,2,119,19,,0
+Top How Tos on Google 2004 to 2017,CSV,CC4,2,80,7,,0
+Health Care Searches By Metro Area in the US,CSV,CC4,2,257,17,,0
+Frightgeist 2017: Rankings for costumes,CSV,CC4,2,76,4,,0
+ExpressionNet,Other,CC0,2,113,3,,
+Pro and College Sports Lines,CSV,CC0,2,451,49,,0
+Email Campaign Management for SME,CSV,Other,2,729,87,,
+1.2 Million Used Car Listings,CSV,CC0,2,912,94,,
+"English Premier League Penalty Dataset, 2016/17",CSV,CC0,2,544,69,2,2
+Weekly Gold Close Price 2015-2017,CSV,CC0,2,284,28,,
+Trump Administration Financial Disclosures,CSV,CC0,2,839,42,,0
+Moneyball,CSV,CC0,2,1075,154,4,
+Human Activity Recognition,CSV,CC4,2,175,18,,0
+prostate.csv,CSV,Other,2,202,34,,0
+FEM simulations,CSV,CC0,2,1134,58,,
+Amazon Reviews,{}JSON,ODbL,2,589,87,,0
+crime against women in India,Other,CC0,2,180,41,,0
+ASX Australia Equity Prices - 1997 to 2017,CSV,Other,2,257,46,,0
+Do Conference Livetweets Get More Traffic?,CSV,CC0,2,378,46,,0
+Github stared repos with photos,CSV,CC0,2,83,5,,0
+Customer Churn,Other,Other,2,1146,204,,0
+NYC Borough Boundaries,Other,CC0,2,442,52,2,0
+URL Database,CSV,ODbL,2,488,58,,0
+MLB 2017,Other,CC3,2,341,59,,0
+Titanic,CSV,CC0,2,95,12,,0
+HIPAA Breaches from 2009-2017,CSV,CC0,2,133,13,,0
+GTZAN music/speech collection,Other,CC0,2,326,27,,
+iris_data,CSV,CC0,2,186,25,2,0
+College Football Statistics,Other,CC0,2,355,43,,0
+Brazil Elections 2014,CSV,CC0,2,101,9,,0
+Fantasy Premier League,CSV,ODbL,2,251,14,,
+IITM-HeTra,Other,GPL,2,162,7,,
+Jupyter Notebook,Other,CC0,2,223,5,,0
+Cifar-10,Other,CC0,2,207,35,3,0
+Predict Happiness,CSV,Other,2,135,12,,0
+Interactive Hand Gesture,Other,Other,2,289,49,,0
+Elementary Python Functions 7,CSV,Other,2,159,4,,0
+Running Times Data for High School Students,CSV,CC0,2,411,48,,0
+flights,CSV,Other,2,408,90,,0
+Economic Indicators,CSV,Other,2,163,12,,0
+Titanic,CSV,CC0,2,937,208,2,0
+Online Retail,Other,Other,2,990,259,2,
+Pill Count detection,Other,CC0,2,173,10,,0
+All UK Active Company Names,CSV,CC0,2,110,8,,0
+California Facilities Pollutant Emissions Data,Other,CC0,2,201,14,,0
+Inflow Level of Wastewater Treatment,CSV,ODbL,2,111,5,,
+UK 2016 Road Safety Data,CSV,CC0,2,386,78,,0
+Commuter train timetable,CSV,Other,2,125,8,,2
+"Anime Data (Score, Staff, Synopsis, and Genre)",CSV,CC4,2,168,7,5,0
+Badminton Game Data (BWF Super Series 2015-2017),CSV,CC4,2,109,6,,0
+Rum Data,CSV,CC0,2,235,20,,0
+Car Insurance,CSV,CC0,2,519,25,,
+MNIST dataset,CSV,Other,2,64,21,,0
+U.S. Educational Attainment [1995-2015],Other,CC0,2,162,29,,0
+tweets,CSV,CC0,2,340,30,,0
+Fortnite: Battle Royale - Weapon Attributes,CSV,Other,2,205,20,,0
+rmedanew,CSV,Other,2,216,8,,0
+University Statistics,{}JSON,CC0,2,850,78,,
+Nazi Tweets,{}JSON,CC4,2,132,15,,0
+Songs Emotion,CSV,Other,2,259,15,,0
+Disk Space Data,CSV,CC0,2,55,,,0
+Top 50 startups in India 2017 by Economic Times,CSV,CC0,2,141,12,,0
+Jokes: Questions and Answers,CSV,GPL,2,206,17,,0
+TA restaurants data 31 euro cities,CSV,Other,2,153,15,,0
+Telco Churn,Other,CC0,2,159,40,,0
+2 Class Classification,Other,CC0,2,144,13,,0
+Retail Transaction Data,CSV,CC0,2,559,47,,
+FastText,Other,CC0,2,385,92,2,0
+Bitcoin & Altcoins in 2017,CSV,CC4,2,363,53,,0
+Predict Angina,Other,Other,2,95,10,,0
+International Mathematical Olympiad (IMO) Scores,CSV,CC0,2,237,9,,0
+Output of running second order model (lb 0.177),CSV,CC0,2,40,7,,0
+Drug Induced Deaths,CSV,CC0,2,290,52,,0
+BIG MART SALES PREDICTION,CSV,ODbL,2,312,49,,0
+My Sleep Log,CSV,CC0,2,130,17,,0
+Recruit Restaurant Visitor Forecasting Data,CSV,CC3,2,119,48,,0
+College Common Data Sets,Other,CC0,2,865,37,,0
+Walmart_Store_Database,CSV,CC0,2,125,15,,0
+Handwriting Verification,CSV,CC0,2,113,8,,
+Large Movie Review Dataset,Other,Other,2,202,9,2,0
+LinkedIn Profile Data,CSV,CC0,2,478,65,,0
+College life Missuri Institute,Other,ODbL,2,49,2,,0
+Ted Talks Transcript,CSV,CC0,2,200,20,,0
+social_network_in_schools,CSV,CC0,2,75,4,,0
+Dog Parks of NYC,CSV,CC0,2,111,10,,0
+Course Material: Walmart Challenge,CSV,Other,2,361,56,16,0
+Python Utility Code for Deep Learning Exercises,Other,CC0,2,465,205,42,0
+Stock Market Index ETF Daily Datasets,CSV,CC0,2,197,14,,0
+Economy Rankings,Other,ODbL,2,166,38,,0
+Cross-position activity recognition,Other,CC0,2,161,2,2,0
+Bitcoin_PriceMovement,CSV,CC0,2,207,24,,0
+ConversationAIDataset,Other,CC0,2,149,386,,0
+Fraud Detection Societe Generale,CSV,CC0,2,193,9,,0
+Market Segmentation,CSV,Other,2,424,35,,0
+UCI Communities and Crime Unnormalized Data Set,{}JSON,CC4,2,126,16,,0
+Weather DataSet for RV Challenge,CSV,Other,2,96,11,,0
+Indian Census Data with Geospatial indexing,CSV,CC0,2,130,13,,0
+Stanford MSA + US Mass Shootings,CSV,CC0,2,69,3,,0
+ENEM - ENADE,CSV,CC0,2,107,8,,0
+MNIST Data for Digit Recognition,Other,CC0,2,138,11,,0
+Cats and Dogs,Other,CC0,2,350,101,,0
+Mall_Customers,CSV,CC0,2,153,23,,0
+Hepatitis B Virus Levels of Patients (Re-upload),Other,Other,2,181,25,,
+Tashkeela: Arabic diacritization corpus,Other,GPL,2,351,19,,0
+SqueezeNet 1.1,Other,CC0,2,330,5,,0
+VGG-11 with batch normalization,Other,CC0,2,165,,,0
+Meneame.net front page news,CSV,CC0,2,224,9,,
+BachelorsDegreeWomenUSA,CSV,CC0,2,72,5,,0
+Densnet121+fine tuning,Other,CC0,2,51,2,,0
+Madison Lakes Ice Cover,CSV,CC0,2,69,3,,0
+CUSTOMER CHURN,CSV,CC0,2,276,43,,
+Indoor Car Track,CSV,Other,2,149,12,,0
+Restaurant-reviews,Other,Other,2,135,26,2,0
+Bank Churn Modelling,CSV,Other,2,199,27,,0
+ELO for EPL 15 matchday,CSV,Other,2,33,0,,0
+Poetry,Other,CC0,2,259,25,,0
+PC_Games,CSV,CC0,2,235,27,,
+Lower Back Pain Symptoms Dataset(labelled),CSV,Other,2,194,19,,0
+Dogs vs Cats,Other,ODbL,2,561,148,,0
+Protein Contact Prediction,Other,GPL,2,167,12,,0
+Safe Driver Prediction,Other,CC0,2,282,76,,0
+Fake News detection,CSV,ODbL,2,279,44,,0
+data sensors,{}JSON,CC0,2,220,24,,0
+Bitcoin Twitter Feed,CSV,Other,2,149,39,,0
+bitcoin twitter,CSV,Other,2,337,60,,0
+VGG-11,Other,CC0,2,412,3,,0
+Pakistan Education Performance Dataset,CSV,Other,2,115,12,,0
+Weather in Australia,CSV,CC0,2,201,32,,0
+Electronic Music Features Dataset,CSV,GPL,2,301,20,,
+Basket Ball Computer Vision,Other,CC0,2,209,7,,0
+Rossmann Store Extra,CSV,Other,2,123,19,,0
+Fortnite: Battle Royale Chest Location Coordinates,CSV,Other,2,369,16,,0
+Titanic: Passenger Nationalities,CSV,Other,2,75,10,,0
+Stemmed and Lementized English words,{}JSON,ODbL,2,70,11,,0
+Los Angeles Weather During 2014,CSV,CC0,2,78,5,,0
+Births in U.S 1994 to 2003,CSV,CC0,2,142,12,,0
