@@ -1,20 +1,28 @@
 # Scope of Visualizations Course
 
-- **Google Colab**: Running and managing notebooks in the Google Colab environment.
+**Google Colab**
+Running and managing notebooks in the Google Colab environment.
   
-- **Data Visualization Importance**: Understanding why data visualization is crucial in data analysis.
+### Data Visualization Theory**
+  - Good vs. Bad Visualizations - characteristics of effective and ineffective visualizations,
+  - Visual Encoding - comprehending the principles of visual encoding in data representation,
+  - Colors in visualization - color spaces, color vision deficiencies, color maps and scales
+  - Tamara Munzner model
+
+## Visualization techniques
+- Financial Times Techniques,
+- coolors.co,
+- geovisualization
   
-- **Good vs. Bad Visualizations**: Identifying characteristics of effective and ineffective visualizations.
   
-- **Financial Times Techniques**: Learning data visualization methods used by the Financial Times.
-  
-- **Visual Encoding**: Comprehending the principles of visual encoding in data representation. Color spaces. Color vision deficiences.
-  
-- **Visualization Tools**:
-    - DataWrapper,
-    - jsfiddle.net,
-  
-- **Data Preparation**: Using the pandas library to prepare data for visualization tasks.
+## Visualization Tools:
+  - DataWrapper,
+  - jsfiddle.net,
+  - Python:
+        - preparation of data in pandas
+        - seaborn library - relplot, displot, catplot,
+        - plotly.express module (interactive plots),
+        - geopandas
 
 
 This section summarizes the key concepts and skills I have acquired in data visualization.
