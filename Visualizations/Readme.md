@@ -19,10 +19,10 @@ Running and managing notebooks in the Google Colab environment.
   - DataWrapper,
   - jsfiddle.net,
   - Python:
-        - preparation of data in pandas
-        - seaborn library - relplot, displot, catplot,
-        - plotly.express module (interactive plots),
-        - geopandas
+    - preparation of data in pandas,
+    - seaborn library - relplot, displot, catplot,
+    - plotly.express module (interactive plots),
+    - geopandas.
 
 
 This section summarizes the key concepts and skills I have acquired in data visualization.
