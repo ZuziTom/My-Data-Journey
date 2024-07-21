@@ -26,6 +26,8 @@ Commands
 - DISTINCT: Displays unique rows.
 - LIMIT: Restricts the number of rows returned
 
+## APPLICAITON > [SAKILA.DB](https://dev.mysql.com/doc/sakila/en/sakila-structure.html)
+
 ## Additional SQL Concepts
 - Views: Virtual tables derived from SQL queries.
 - Procedures: Reusable SQL scripts for complex operations.
