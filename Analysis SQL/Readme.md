@@ -33,4 +33,4 @@ Commands
 - Normalization: Organizes data to reduce redundancy and improve data integrity.
 
 
-## APPLICAITON > [SAKILA.DB](https://dev.mysql.com/doc/sakila/en/sakila-structure.html)
+## APPLICATION > [SAKILA.DB](https://dev.mysql.com/doc/sakila/en/sakila-structure.html)
