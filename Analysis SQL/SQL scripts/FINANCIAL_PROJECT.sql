@@ -17,19 +17,7 @@ SELECT
 FROM loan
 GROUP BY year, quarter, month  WITH ROLLUP;
 
--- little bit adjusted solution to show columns in the way as asked in the exercise
-SELECT
-    DATE_FORMAT(date, '%Y') AS year,
-    CONCAT(DATE_FORMAT(date, '%Y'), '_Q', QUARTER(date)) AS year_quarter,
-    CONCAT(DATE_FORMAT(date, '%Y'), '_Q', QUARTER(date), '_', DATE_FORMAT(date, '%m')) AS year_quarter_month,
-    COUNT(*) AS total_loans,
-    SUM(payments) AS total_loan_amount,
-    AVG(payments) AS average_loan_amount
-FROM
-    loan
-GROUP BY
-    year, year_quarter, year_quarter_month
-WITH ROLLUP;
+
 
 #############################
 ###### LOAN STATUS ##########
@@ -48,27 +36,8 @@ GROUP BY status WITH ROLLUP;
 #### ANALYSIS OF ACCOUNTS #########
 ###################################
 
-SELECT*
-FROM loan;
 
 -- aggregation of the data based on account_id + ranking over loans amount and count
-WITH cte AS (
-    SELECT account_id,
-           COUNT(amount) AS loans_account_count,
-           SUM(amount)   AS total_loan_amount,
-           AVG(amount)   AS average_loan
-    FROM loan
-    WHERE status IN ('A', 'C') -- fully repaid
-    GROUP BY account_id
-)
-SELECT
-    *,
-    -- ranking
-    ROW_NUMBER() over (ORDER BY TOTAL_LOAN_AMOUNT DESC) AS rank_loans_amount,
-    ROW_NUMBER() over (ORDER BY LOANS_ACCOUNT_COUNT DESC) AS rank_loans_count
-FROM cte;
-
--- without subquery
 
 SELECT
     account_id,
@@ -89,14 +58,12 @@ GROUP BY
 
 #################################
 ######## FULLY PAID LOANS #######
-############### GENDER ##########
+############ BY GENDER ##########
 
 -- 1. find SELECT Query to find out results for the gender
 -- 2. need to verify if our select query is correct. Logic is to check if SUM F+M amounts of loans - TOTAL sum of loans = 0
 -- 3. to do that we need work with the created data in the SELECT query (SUM of F+M amounts) so keep it within tmp table
 -- 4. need to get calculation of total SUM of loans amount from the whole loan table, for verification calculation readability we save it within cte table
-
-
 
 DROP TABLE IF EXISTS tmp_gender_results;
 
@@ -207,6 +174,7 @@ ORDER BY clients_per_area DESC -- district with the most customers
 ########################################
 ######## CLIENT ANALYSIS part 3 #########
 ########################################
+
 -- percentage of each district in the total amount of loans granted
 -- solution with window function to calculate the total sum of paid loans in each district by total sum
 
@@ -226,29 +194,6 @@ WHERE l.status IN ('A', 'C')AND d.type = 'OWNER'
 GROUP BY area, d2.district_id
 ORDER BY CLIENTS_PER_AREA DESC;
 
--- different approach with subquery to calculate total sum of paid loans across all districts
--- adding column loans percentage to recalculate share amount
-
-SELECT
-    d2.A2 as area,
-    d2.district_id,
-    COUNT(DISTINCT c.client_id) as clients_per_area,
-    SUM(l.amount) as paid_loans_sum,
-    COUNT(l.amount) as paid_loans_count,
-    SUM(l.amount) / total_loans.total_sum * 100 as loans_percentage
-FROM loan as l
-JOIN account a using (account_id)
-JOIN disp as d using (account_id)
-JOIN client as c using (client_id)
-JOIN district as d2 on c.district_id = d2.district_id
-JOIN (
-    SELECT SUM(amount) as total_sum
-    FROM loan
-    WHERE status IN ('A', 'C')
-) as total_loans
-WHERE l.status IN ('A', 'C') AND d.type = 'OWNER'
-GROUP BY area, d2.district_id
-ORDER BY clients_per_area DESC;
 
 ########################################
 ######## SELECTION #####################
@@ -258,9 +203,6 @@ ORDER BY clients_per_area DESC;
     -- account balance > 1000
     -- > 5 loans
     -- born after 1990
-
-SELECT*
-FROM loan
 
 SELECT
     c.client_id,
@@ -328,38 +270,6 @@ CREATE TABLE cards_at_expiration (
     report_date DATE, -- report date = p_date just to have easily readable report for other persons what is going on in here
     PRIMARY KEY (client_id, card_id)
 );
-
-
-DELIMITER $$
-DROP PROCEDURE IF EXISTS refresh_cards_at_expiration;
-CREATE PROCEDURE refresh_cards_at_expiration(p_date DATE)
-BEGIN
-    -- Delete existing data from the cards_at_expiration table
-    TRUNCATE TABLE cards_at_expiration; -- truncate is faster, deleting whole table
-
-    -- Insert new data into the cards_at_expiration table
-    INSERT INTO cards_at_expiration (client_id, card_id, issued, expiration_date, client_address, report_date)
-    with cte AS (SELECT c.client_id,
-                        ca.card_id,
-                        ca.issued,
-                        DATE_ADD(ca.issued, INTERVAL 3 YEAR) AS expiration_date, -- calculation expiration date based on the exercise condition
-                        d2.A3                                AS client_address
-                 FROM card AS ca
-                          JOIN disp AS d USING (disp_id)
-                          JOIN client AS c USING (client_id)
-                          JOIN district AS d2 USING (district_id))
-    SELECT *,
-           p_date
-    FROM cte
-    WHERE p_date BETWEEN DATE_ADD(expiration_date, INTERVAL -7 DAY) AND expiration_date;
-END$$
-
-DELIMITER ;
-
-CALL refresh_cards_at_expiration('2001-01-01');
-SELECT * FROM cards_at_expiration; -- to check the table
-
-###### solution without CTE
 
 DELIMITER $$
 DROP PROCEDURE IF EXISTS refresh_cards_at_expiration_report;
