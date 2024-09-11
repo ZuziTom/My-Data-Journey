@@ -18,11 +18,13 @@ Running and managing notebooks in the Google Colab environment.
 ## Visualization Tools:
   - DataWrapper,
   - jsfiddle.net,
+  - PowerBI, Looker sudio, Tableau
   - Python:
     - preparation of data in pandas,
     - seaborn library - relplot, displot, catplot,
     - plotly.express module (interactive plots),
     - geopandas.
+
 
 
 This section summarizes the key concepts and skills I have acquired in data visualization.
